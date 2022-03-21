@@ -1,0 +1,527 @@
+League,Club,#,player,Position,Date of birth / Age,Nat.,Height,Foot,Joined,Signed from,Contract,Market value
+PREMIER LEAGUE,Manchester City,31,Ederson,Goalkeeper,"Aug 17, 1993 (28)",Brazil,"1,88 m",left,"Jul 1, 2017",SL Benfica,"Jun 30, 2026",€50.00m
+PREMIER LEAGUE,Manchester City,13,Zack Steffen,Goalkeeper,"Apr 2, 1995 (26)",United States,"1,91 m",right,"Jul 9, 2019",Columbus Crew SC,"Jun 30, 2025",€6.00m
+PREMIER LEAGUE,Manchester City,33,Scott Carson,Goalkeeper,"Sep 3, 1985 (36)",England,"1,88 m",right,"Jul 20, 2021",Derby County,"Jun 30, 2022",€300Th.
+PREMIER LEAGUE,Manchester City,3,Rúben Dias,Centre-Back,"May 14, 1997 (24)",Portugal,"1,87 m",right,"Sep 29, 2020",SL Benfica,"Jun 30, 2027",€75.00m
+PREMIER LEAGUE,Manchester City,14,Aymeric Laporte,Centre-Back,"May 27, 1994 (27)",Spain,"1,89 m",left,"Jan 30, 2018",Athletic Bilbao,"Jun 30, 2025",€45.00m
+PREMIER LEAGUE,Manchester City,6,Nathan Aké,Centre-Back,"Feb 18, 1995 (26)",Netherlands,"1,80 m",left,"Aug 5, 2020",AFC Bournemouth,"Jun 30, 2025",€32.00m
+PREMIER LEAGUE,Manchester City,5,John Stones,Centre-Back,"May 28, 1994 (27)",England,"1,88 m",right,"Aug 9, 2016",Everton FC,"Jun 30, 2026",€30.00m
+PREMIER LEAGUE,Manchester City,11,Oleksandr Zinchenko,Left-Back,"Dec 15, 1996 (25)",Ukraine,"1,75 m",left,"Jul 4, 2016",FK Ufa,"Jun 30, 2024",€28.00m
+PREMIER LEAGUE,Manchester City,22,Benjamin Mendy,Left-Back,"Jul 17, 1994 (27)",France,"1,85 m",left,"Jul 24, 2017",AS Monaco,"Jun 30, 2023",€10.00m
+PREMIER LEAGUE,Manchester City,27,João Cancelo,Right-Back,"May 27, 1994 (27)",Portugal,"1,82 m",right,"Aug 7, 2019",Juventus FC,"Jun 30, 2025",€55.00m
+PREMIER LEAGUE,Manchester City,2,Kyle Walker,Right-Back,"May 28, 1990 (31)",England,"1,83 m",right,"Jul 14, 2017",Tottenham Hotspur,"Jun 30, 2024",€28.00m
+PREMIER LEAGUE,Manchester City,16,Rodri,Defensive Midfield,"Jun 22, 1996 (25)",Spain,"1,91 m",right,"Jul 4, 2019",Atlético de Madrid,"Jun 30, 2024",€70.00m
+PREMIER LEAGUE,Manchester City,25,Fernandinho,Defensive Midfield,"May 4, 1985 (36)",Brazil,"1,79 m",right,"Jul 1, 2013",Shakhtar Donetsk,"Jun 30, 2022",€2.00m
+PREMIER LEAGUE,Manchester City,47,Phil Foden,Central Midfield,"May 28, 2000 (21)",England,"1,71 m",left,"Jul 1, 2017",Manchester City U18,"Jun 30, 2024",€80.00m
+PREMIER LEAGUE,Manchester City,8,Ilkay Gündogan,Central Midfield,"Oct 24, 1990 (31)",Germany,"1,80 m",right,"Jul 1, 2016",Borussia Dortmund,"Jun 30, 2023",€40.00m
+PREMIER LEAGUE,Manchester City,17,Kevin De Bruyne,Attacking Midfield,"Jun 28, 1991 (30)",Belgium,"1,81 m",right,"Aug 30, 2015",VfL Wolfsburg,"Jun 30, 2025",€100.00m
+PREMIER LEAGUE,Manchester City,20,Bernardo Silva,Attacking Midfield,"Aug 10, 1994 (27)",Portugal,"1,73 m",left,"Jul 1, 2017",AS Monaco,"Jun 30, 2025",€70.00m
+PREMIER LEAGUE,Manchester City,80,Cole Palmer,Attacking Midfield,"May 6, 2002 (19)",England,"1,82 m",left,"Jul 1, 2021",Manchester City U23,"Jun 30, 2026",€500Th.
+PREMIER LEAGUE,Manchester City,10,Jack Grealish,Left Winger,"Sep 10, 1995 (26)",England,"1,80 m",right,"Aug 5, 2021",Aston Villa,"Jun 30, 2027",€100.00m
+PREMIER LEAGUE,Manchester City,7,Raheem Sterling,Left Winger,"Dec 8, 1994 (27)",England,"1,70 m",right,"Jul 14, 2015",Liverpool FC,"Jun 30, 2023",€90.00m
+PREMIER LEAGUE,Manchester City,21,Ferran Torres,Right Winger,"Feb 29, 2000 (21)",Spain,"1,84 m",right,"Aug 4, 2020",Valencia CF,"Jun 30, 2025",€50.00m
+PREMIER LEAGUE,Manchester City,26,Riyad Mahrez,Right Winger,"Feb 21, 1991 (30)",Algeria,"1,79 m",left,"Jul 10, 2018",Leicester City,"Jun 30, 2023",€42.00m
+PREMIER LEAGUE,Manchester City,37,Kayky,Right Winger,"Jun 11, 2003 (18)",Brazil,"1,75 m",left,"Aug 31, 2021",Fluminense Football Club,"Jun 30, 2026",€14.00m
+PREMIER LEAGUE,Manchester City,9,Gabriel Jesus,Centre-Forward,"Apr 3, 1997 (24)",Brazil,"1,75 m",right,"Jan 1, 2017",Sociedade Esportiva Palmeiras,"Jun 30, 2023",€60.00m
+PREMIER LEAGUE,Manchester United,26,Dean Henderson,Goalkeeper,"Mar 12, 1997 (24)",England,"1,88 m",right,"Aug 1, 2020",Manchester United U23,"Jun 30, 2025",€22.00m
+PREMIER LEAGUE,Manchester United,1,David de Gea,Goalkeeper,"Nov 7, 1990 (31)",Spain,"1,89 m",right,"Jul 1, 2011",Atlético de Madrid,"Jun 30, 2023",€18.00m
+PREMIER LEAGUE,Manchester United,22,Tom Heaton,Goalkeeper,"Apr 15, 1986 (35)",England,"1,88 m",right,"Jul 2, 2021",Aston Villa,"Jun 30, 2023",€1.00m
+PREMIER LEAGUE,Manchester United,13,Lee Grant,Goalkeeper,"Jan 27, 1983 (38)",England,"1,93 m",right,"Jul 3, 2018",Stoke City,"Jun 30, 2022",€250Th.
+PREMIER LEAGUE,Manchester United,19,Raphaël Varane,Centre-Back,"Apr 25, 1993 (28)",France,"1,91 m",right,"Aug 14, 2021",Real Madrid,"Jun 30, 2025",€70.00m
+PREMIER LEAGUE,Manchester United,5,Harry Maguire,Centre-Back,"Mar 5, 1993 (28)",England,"1,94 m",right,"Aug 5, 2019",Leicester City,"Jun 30, 2025",€50.00m
+PREMIER LEAGUE,Manchester United,2,Victor Lindelöf,Centre-Back,"Jul 17, 1994 (27)",Sweden,"1,87 m",right,"Jul 1, 2017",SL Benfica,"Jun 30, 2024",€24.00m
+PREMIER LEAGUE,Manchester United,3,Eric Bailly,Centre-Back,"Apr 12, 1994 (27)",Cote d'Ivoire,"1,87 m",right,"Jul 1, 2016",Villarreal CF,"Jun 30, 2024",€10.00m
+PREMIER LEAGUE,Manchester United,4,Phil Jones,Centre-Back,"Feb 21, 1992 (29)",England,"1,85 m",right,"Jul 1, 2011",Blackburn Rovers,"Jun 30, 2023",€5.00m
+PREMIER LEAGUE,Manchester United,43,Teden Mengi,Centre-Back,"Apr 30, 2002 (19)",England,"1,86 m",right,-,-,"Jun 30, 2024",€1.50m
+PREMIER LEAGUE,Manchester United,23,Luke Shaw,Left-Back,"Jul 12, 1995 (26)",England,"1,78 m",left,"Jul 1, 2014",Southampton FC,"Jun 30, 2023",€42.00m
+PREMIER LEAGUE,Manchester United,27,Alex Telles,Left-Back,"Dec 15, 1992 (29)",Brazil,"1,81 m",left,"Oct 5, 2020",FC Porto,"Jun 30, 2024",€20.00m
+PREMIER LEAGUE,Manchester United,29,Aaron Wan-Bissaka,Right-Back,"Nov 26, 1997 (24)",England,"1,83 m",right,"Jul 1, 2019",Crystal Palace,"Jun 30, 2024",€40.00m
+PREMIER LEAGUE,Manchester United,20,Diogo Dalot,Right-Back,"Mar 18, 1999 (22)",Portugal,"1,83 m",right,"Jul 1, 2018",FC Porto,"Jun 30, 2023",€10.00m
+PREMIER LEAGUE,Manchester United,39,Scott McTominay,Defensive Midfield,"Dec 8, 1996 (25)",Scotland,"1,91 m",right,"Jul 1, 2017",Manchester United U23,"Jun 30, 2025",€35.00m
+PREMIER LEAGUE,Manchester United,31,Nemanja Matic,Defensive Midfield,"Aug 1, 1988 (33)",Serbia,"1,94 m",left,"Jul 31, 2017",Chelsea FC,"Jun 30, 2023",€8.00m
+PREMIER LEAGUE,Manchester United,6,Paul Pogba,Central Midfield,"Mar 15, 1993 (28)",France,"1,91 m",both,"Aug 9, 2016",Juventus FC,"Jun 30, 2022",€60.00m
+PREMIER LEAGUE,Manchester United,34,Donny van de Beek,Central Midfield,"Apr 18, 1997 (24)",Netherlands,"1,84 m",right,"Sep 2, 2020",Ajax Amsterdam,"Jun 30, 2025",€25.00m
+PREMIER LEAGUE,Manchester United,17,Fred,Central Midfield,"Mar 5, 1993 (28)",Brazil,"1,69 m",left,"Jul 1, 2018",Shakhtar Donetsk,"Jun 30, 2023",€22.00m
+PREMIER LEAGUE,Manchester United,18,Bruno Fernandes,Attacking Midfield,"Sep 8, 1994 (27)",Portugal,"1,79 m",right,"Jan 29, 2020",Sporting CP,"Jun 30, 2025",€90.00m
+PREMIER LEAGUE,Manchester United,14,Jesse Lingard,Attacking Midfield,"Dec 15, 1992 (29)",England,"1,74 m",right,"Jul 1, 2014",Manchester United U21,"Jun 30, 2022",€22.00m
+PREMIER LEAGUE,Manchester United,8,Juan Mata,Attacking Midfield,"Apr 28, 1988 (33)",Spain,"1,70 m",left,"Jan 24, 2014",Chelsea FC,"Jun 30, 2022",€4.00m
+PREMIER LEAGUE,Manchester United,46,Hannibal Mejbri,Attacking Midfield,"Jan 21, 2003 (18)",Tunisia,"1,84 m",right,"Jul 1, 2021",Manchester United U23,"Jun 30, 2026",€3.00m
+PREMIER LEAGUE,Manchester United,25,Jadon Sancho,Left Winger,"Mar 25, 2000 (21)",England,"1,80 m",right,"Jul 23, 2021",Borussia Dortmund,"Jun 30, 2026",€90.00m
+PREMIER LEAGUE,Manchester United,10,Marcus Rashford,Left Winger,"Oct 31, 1997 (24)",England,"1,85 m",right,"Jan 1, 2016",Manchester United U18,"Jun 30, 2023",€85.00m
+PREMIER LEAGUE,Manchester United,36,Anthony Elanga,Left Winger,"Apr 27, 2002 (19)",Sweden,"1,78 m",right,"Jul 1, 2020",Manchester United U23,-,€800Th.
+PREMIER LEAGUE,Manchester United,11,Mason Greenwood,Right Winger,"Oct 1, 2001 (20)",England,"1,81 m",both,"Jul 1, 2019",Manchester United U18,"Jun 30, 2025",€50.00m
+PREMIER LEAGUE,Manchester United,16,Amad Diallo,Right Winger,"Jul 11, 2002 (19)",Cote d'Ivoire,"1,73 m",left,"Jan 2, 2021",Atalanta BC,"Jun 30, 2025",€18.00m
+PREMIER LEAGUE,Manchester United,44,Tahith Chong,Right Winger,"Dec 4, 1999 (22)",Netherlands,"1,85 m",left,"Jul 1, 2019",Manchester United U23,"Jun 30, 2022",€4.00m
+PREMIER LEAGUE,Manchester United,47,Shola Shoretire,Right Winger,"Feb 2, 2004 (17)",England,"1,71 m",right,"Jul 1, 2021",Manchester United U23,-,€3.00m
+PREMIER LEAGUE,Manchester United,7,Cristiano Ronaldo,Centre-Forward,"Feb 5, 1985 (36)",Portugal,"1,87 m",right,"Aug 31, 2021",Juventus FC,"Jun 30, 2023",€45.00m
+PREMIER LEAGUE,Manchester United,9,Anthony Martial,Centre-Forward,"Dec 5, 1995 (26)",France,"1,81 m",right,"Sep 1, 2015",AS Monaco,"Jun 30, 2024",€35.00m
+PREMIER LEAGUE,Manchester United,21,Edinson Cavani,Centre-Forward,"Feb 14, 1987 (34)",Uruguay,"1,84 m",right,"Oct 5, 2020",Paris Saint-Germain,"Jun 30, 2022",€6.00m
+PREMIER LEAGUE,Chelsea FC,16,Edouard Mendy,Goalkeeper,"Mar 1, 1992 (29)",Senegal,"1,95 m",right,"Sep 24, 2020",Stade Rennais FC,"Jun 30, 2025",€30.00m
+PREMIER LEAGUE,Chelsea FC,1,Kepa Arrizabalaga,Goalkeeper,"Oct 3, 1994 (27)",Spain,"1,86 m",right,"Aug 8, 2018",Athletic Bilbao,"Jun 30, 2025",€13.00m
+PREMIER LEAGUE,Chelsea FC,13,Marcus Bettinelli,Goalkeeper,"May 24, 1992 (29)",England,"1,93 m",right,"Jul 28, 2021",Fulham FC,"Jun 30, 2023",€2.50m
+PREMIER LEAGUE,Chelsea FC,2,Antonio Rüdiger,Centre-Back,"Mar 3, 1993 (28)",Germany,"1,90 m",right,"Jul 9, 2017",AS Roma,"Jun 30, 2022",€35.00m
+PREMIER LEAGUE,Chelsea FC,4,Andreas Christensen,Centre-Back,"Apr 10, 1996 (25)",Denmark,"1,88 m",right,"Jul 1, 2015",Chelsea FC U21,"Jun 30, 2022",€35.00m
+PREMIER LEAGUE,Chelsea FC,14,Trevoh Chalobah,Centre-Back,"Jul 5, 1999 (22)",England,"1,90 m",right,"Jul 1, 2021",Chelsea FC U23,"Jun 30, 2026",€10.00m
+PREMIER LEAGUE,Chelsea FC,31,Malang Sarr,Centre-Back,"Jan 23, 1999 (22)",France,"1,82 m",left,"Aug 27, 2020",OGC Nice,"Jun 30, 2025",€7.50m
+PREMIER LEAGUE,Chelsea FC,6,Thiago Silva,Centre-Back,"Sep 22, 1984 (37)",Brazil,"1,81 m",right,"Aug 28, 2020",Paris Saint-Germain,"Jun 30, 2022",€3.00m
+PREMIER LEAGUE,Chelsea FC,21,Ben Chilwell,Left-Back,"Dec 21, 1996 (24)",England,"1,80 m",left,"Aug 26, 2020",Leicester City,"Jun 30, 2025",€38.00m
+PREMIER LEAGUE,Chelsea FC,3,Marcos Alonso,Left-Back,"Dec 28, 1990 (30)",Spain,"1,89 m",left,"Aug 31, 2016",ACF Fiorentina,"Jun 30, 2023",€15.00m
+PREMIER LEAGUE,Chelsea FC,24,Reece James,Right-Back,"Dec 8, 1999 (22)",England,"1,80 m",right,"Jul 1, 2019",Chelsea FC U23,"Jun 30, 2025",€45.00m
+PREMIER LEAGUE,Chelsea FC,28,César Azpilicueta,Right-Back,"Aug 28, 1989 (32)",Spain,"1,78 m",right,"Aug 24, 2012",Olympique Marseille,"Jun 30, 2022",€13.00m
+PREMIER LEAGUE,Chelsea FC,7,N'Golo Kanté,Defensive Midfield,"Mar 29, 1991 (30)",France,"1,68 m",right,"Jul 16, 2016",Leicester City,"Jun 30, 2023",€55.00m
+PREMIER LEAGUE,Chelsea FC,5,Jorginho,Defensive Midfield,"Dec 20, 1991 (29)",Italy,"1,80 m",right,"Jul 14, 2018",SSC Napoli,"Jun 30, 2023",€45.00m
+PREMIER LEAGUE,Chelsea FC,8,Mateo Kovacic,Central Midfield,"May 6, 1994 (27)",Croatia,"1,76 m",right,"Jul 1, 2019",Real Madrid,"Jun 30, 2024",€45.00m
+PREMIER LEAGUE,Chelsea FC,17,Saúl Ñíguez,Central Midfield,"Nov 21, 1994 (27)",Spain,"1,84 m",left,"Aug 31, 2021",Atlético de Madrid,"Jun 30, 2022",€40.00m
+PREMIER LEAGUE,Chelsea FC,12,Ruben Loftus-Cheek,Central Midfield,"Jan 23, 1996 (25)",England,"1,90 m",right,"Jan 1, 2015",Chelsea FC U21,"Jun 30, 2024",€18.00m
+PREMIER LEAGUE,Chelsea FC,18,Ross Barkley,Central Midfield,"Dec 5, 1993 (28)",England,"1,85 m",right,"Jan 5, 2018",Everton FC,"Jun 30, 2023",€17.00m
+PREMIER LEAGUE,Chelsea FC,32,Lewis Baker,Central Midfield,"Apr 25, 1995 (26)",England,"1,82 m",right,"Jul 1, 2014",Chelsea FC U21,"Jun 30, 2022",€3.50m
+PREMIER LEAGUE,Chelsea FC,19,Mason Mount,Attacking Midfield,"Jan 10, 1999 (22)",England,"1,80 m",right,"Jul 1, 2019",Chelsea FC U23,"Jun 30, 2024",€75.00m
+PREMIER LEAGUE,Chelsea FC,29,Kai Havertz,Attacking Midfield,"Jun 11, 1999 (22)",Germany,"1,90 m",left,"Sep 4, 2020",Bayer 04 Leverkusen,"Jun 30, 2025",€70.00m
+PREMIER LEAGUE,Chelsea FC,22,Hakim Ziyech,Attacking Midfield,"Mar 19, 1993 (28)",Morocco,"1,81 m",left,"Jul 1, 2020",Ajax Amsterdam,"Jun 30, 2025",€38.00m
+PREMIER LEAGUE,Chelsea FC,-,Charly Musonda Jr.,Attacking Midfield,"Oct 15, 1996 (25)",Belgium,"1,73 m",right,"Jul 1, 2017",Chelsea FC U23,"Jun 30, 2022",€1.00m
+PREMIER LEAGUE,Chelsea FC,10,Christian Pulisic,Right Winger,"Sep 18, 1998 (23)",United States,"1,77 m",right,"Jan 2, 2019",Borussia Dortmund,"Jun 30, 2024",€50.00m
+PREMIER LEAGUE,Chelsea FC,20,Callum Hudson-Odoi,Right Winger,"Nov 7, 2000 (21)",England,"1,77 m",right,"Jan 1, 2019",Chelsea FC U23,"Jun 30, 2024",€32.00m
+PREMIER LEAGUE,Chelsea FC,9,Romelu Lukaku,Centre-Forward,"May 13, 1993 (28)",Belgium,"1,91 m",left,"Aug 12, 2021",Inter Milan,"Jun 30, 2026",€100.00m
+PREMIER LEAGUE,Chelsea FC,11,Timo Werner,Centre-Forward,"Mar 6, 1996 (25)",Germany,"1,80 m",right,"Jul 1, 2020",RB Leipzig,"Jun 30, 2025",€55.00m
+PREMIER LEAGUE,Liverpool FC,1,Alisson,Goalkeeper,"Oct 2, 1992 (29)",Brazil,"1,91 m",right,"Jul 19, 2018",AS Roma,"Jun 30, 2027",€60.00m
+PREMIER LEAGUE,Liverpool FC,62,Caoimhin Kelleher,Goalkeeper,"Nov 23, 1998 (23)",Ireland,"1,88 m",right,"Jul 1, 2019",Liverpool FC U23,"Jun 30, 2026",€2.50m
+PREMIER LEAGUE,Liverpool FC,22,Loris Karius,Goalkeeper,"Jun 22, 1993 (28)",Germany,"1,91 m",right,"Jul 1, 2016",1.FSV Mainz 05,"Jun 30, 2022",€2.00m
+PREMIER LEAGUE,Liverpool FC,13,Adrián,Goalkeeper,"Jan 3, 1987 (34)",Spain,"1,90 m",right,"Aug 5, 2019",West Ham United,"Jun 30, 2022",€1.00m
+PREMIER LEAGUE,Liverpool FC,4,Virgil van Dijk,Centre-Back,"Jul 8, 1991 (30)",Netherlands,"1,93 m",right,"Jan 1, 2018",Southampton FC,"Jun 30, 2025",€55.00m
+PREMIER LEAGUE,Liverpool FC,5,Ibrahima Konaté,Centre-Back,"May 25, 1999 (22)",France,"1,94 m",right,"Jul 1, 2021",RB Leipzig,"Jun 30, 2026",€35.00m
+PREMIER LEAGUE,Liverpool FC,12,Joe Gomez,Centre-Back,"May 23, 1997 (24)",England,"1,88 m",right,"Jul 1, 2015",Charlton Athletic,"Jun 30, 2024",€30.00m
+PREMIER LEAGUE,Liverpool FC,32,Joel Matip,Centre-Back,"Aug 8, 1991 (30)",Cameroon,"1,95 m",right,"Jul 1, 2016",FC Schalke 04,"Jun 30, 2024",€18.00m
+PREMIER LEAGUE,Liverpool FC,47,Nathaniel Phillips,Centre-Back,"Mar 21, 1997 (24)",England,"1,90 m",right,"Jul 1, 2019",Liverpool FC U23,"Jun 30, 2025",€8.00m
+PREMIER LEAGUE,Liverpool FC,26,Andrew Robertson,Left-Back,"Mar 11, 1994 (27)",Scotland,"1,78 m",left,"Jul 21, 2017",Hull City,"Jun 30, 2026",€65.00m
+PREMIER LEAGUE,Liverpool FC,21,Konstantinos Tsimikas,Left-Back,"May 12, 1996 (25)",Greece,"1,79 m",left,"Aug 10, 2020",Olympiacos Piraeus,"Jun 30, 2025",€10.00m
+PREMIER LEAGUE,Liverpool FC,66,Trent Alexander-Arnold,Right-Back,"Oct 7, 1998 (23)",England,"1,80 m",right,"Jul 1, 2016",Liverpool FC U18,"Jun 30, 2025",€75.00m
+PREMIER LEAGUE,Liverpool FC,76,Neco Williams,Right-Back,"Apr 13, 2001 (20)",Wales,"1,77 m",right,"Jan 1, 2020",Liverpool FC U23,"Jun 30, 2025",€8.00m
+PREMIER LEAGUE,Liverpool FC,3,Fabinho,Defensive Midfield,"Oct 23, 1993 (28)",Brazil,"1,88 m",right,"Jul 1, 2018",AS Monaco,"Jun 30, 2026",€60.00m
+PREMIER LEAGUE,Liverpool FC,8,Naby Keïta,Central Midfield,"Feb 10, 1995 (26)",Guinea,"1,72 m",right,"Jul 1, 2018",RB Leipzig,"Jun 30, 2023",€32.00m
+PREMIER LEAGUE,Liverpool FC,17,Curtis Jones,Central Midfield,"Jan 30, 2001 (20)",England,"1,85 m",right,"Jul 1, 2020",Liverpool FC U23,"Jun 30, 2025",€30.00m
+PREMIER LEAGUE,Liverpool FC,6,Thiago,Central Midfield,"Apr 11, 1991 (30)",Spain,"1,74 m",right,"Sep 18, 2020",Bayern Munich,"Jun 30, 2024",€25.00m
+PREMIER LEAGUE,Liverpool FC,14,Jordan Henderson,Central Midfield,"Jun 17, 1990 (31)",England,"1,87 m",right,"Jul 1, 2011",Sunderland AFC,"Jun 30, 2025",€20.00m
+PREMIER LEAGUE,Liverpool FC,15,Alex Oxlade-Chamberlain,Central Midfield,"Aug 15, 1993 (28)",England,"1,75 m",right,"Aug 31, 2017",Arsenal FC,"Jun 30, 2023",€18.00m
+PREMIER LEAGUE,Liverpool FC,7,James Milner,Central Midfield,"Jan 4, 1986 (35)",England,"1,75 m",right,"Jul 1, 2015",Manchester City,"Jun 30, 2022",€3.00m
+PREMIER LEAGUE,Liverpool FC,10,Sadio Mané,Left Winger,"Apr 10, 1992 (29)",Senegal,"1,74 m",right,"Jul 1, 2016",Southampton FC,"Jun 30, 2023",€85.00m
+PREMIER LEAGUE,Liverpool FC,20,Diogo Jota,Left Winger,"Dec 4, 1996 (25)",Portugal,"1,78 m",right,"Sep 19, 2020",Wolverhampton Wanderers,"Jun 30, 2025",€45.00m
+PREMIER LEAGUE,Liverpool FC,18,Takumi Minamino,Left Winger,"Jan 16, 1995 (26)",Japan,"1,74 m",right,"Jan 1, 2020",Red Bull Salzburg,"Jun 30, 2024",€12.00m
+PREMIER LEAGUE,Liverpool FC,11,Mohamed Salah,Right Winger,"Jun 15, 1992 (29)",Egypt,"1,75 m",left,"Jul 1, 2017",AS Roma,"Jun 30, 2023",€100.00m
+PREMIER LEAGUE,Liverpool FC,67,Harvey Elliott,Right Winger,"Apr 4, 2003 (18)",England,"1,70 m",left,"Jul 1, 2021",Liverpool FC U23,"Jun 30, 2026",€15.00m
+PREMIER LEAGUE,Liverpool FC,9,Roberto Firmino,Centre-Forward,"Oct 2, 1991 (30)",Brazil,"1,81 m",right,"Jul 1, 2015",TSG 1899 Hoffenheim,"Jun 30, 2023",€40.00m
+PREMIER LEAGUE,Liverpool FC,27,Divock Origi,Centre-Forward,"Apr 18, 1995 (26)",Belgium,"1,85 m",right,"Jul 29, 2014",LOSC Lille,"Jun 30, 2022",€12.00m
+PREMIER LEAGUE,Tottenham Hotspur,22,Pierluigi Gollini,Goalkeeper,"Mar 18, 1995 (26)",Italy,"1,94 m",right,"Jul 24, 2021",Atalanta BC,"Jun 30, 2022",€15.00m
+PREMIER LEAGUE,Tottenham Hotspur,1,Hugo Lloris,Goalkeeper,"Dec 26, 1986 (34)",France,"1,88 m",left,"Aug 31, 2012",Olympique Lyon,"Jun 30, 2022",€9.00m
+PREMIER LEAGUE,Tottenham Hotspur,40,Brandon Austin,Goalkeeper,"Jan 8, 1999 (22)",England,"1,88 m",right,"Aug 1, 2021",Tottenham Hotspur U23,-,€250Th.
+PREMIER LEAGUE,Tottenham Hotspur,4,Cristian Romero,Centre-Back,"Apr 27, 1998 (23)",Argentina,"1,85 m",right,"Aug 6, 2021",Atalanta BC,"Jun 30, 2022",€35.00m
+PREMIER LEAGUE,Tottenham Hotspur,6,Davinson Sánchez,Centre-Back,"Jun 12, 1996 (25)",Colombia,"1,87 m",right,"Aug 23, 2017",Ajax Amsterdam,"Jun 30, 2024",€32.00m
+PREMIER LEAGUE,Tottenham Hotspur,15,Eric Dier,Centre-Back,"Jan 15, 1994 (27)",England,"1,88 m",right,"Jul 31, 2014",Sporting CP,"Jun 30, 2024",€22.00m
+PREMIER LEAGUE,Tottenham Hotspur,25,Japhet Tanganga,Centre-Back,"Mar 31, 1999 (22)",England,"1,84 m",right,"Jan 1, 2020",Tottenham Hotspur U23,"Jun 30, 2025",€15.00m
+PREMIER LEAGUE,Tottenham Hotspur,14,Joe Rodon,Centre-Back,"Oct 22, 1997 (24)",Wales,"1,93 m",right,"Oct 16, 2020",Swansea City,"Jun 30, 2025",€10.00m
+PREMIER LEAGUE,Tottenham Hotspur,3,Sergio Reguilón,Left-Back,"Dec 16, 1996 (25)",Spain,"1,78 m",left,"Sep 19, 2020",Real Madrid,"Jun 30, 2025",€25.00m
+PREMIER LEAGUE,Tottenham Hotspur,33,Ben Davies,Left-Back,"Apr 24, 1993 (28)",Wales,"1,81 m",left,"Jul 23, 2014",Swansea City,"Jun 30, 2024",€16.00m
+PREMIER LEAGUE,Tottenham Hotspur,12,Emerson Royal,Right-Back,"Jan 14, 1999 (22)",Brazil,"1,83 m",right,"Aug 31, 2021",FC Barcelona,"Jun 30, 2026",€25.00m
+PREMIER LEAGUE,Tottenham Hotspur,2,Matt Doherty,Right-Back,"Jan 16, 1992 (29)",Ireland,"1,85 m",right,"Aug 30, 2020",Wolverhampton Wanderers,"Jun 30, 2024",€16.00m
+PREMIER LEAGUE,Tottenham Hotspur,8,Harry Winks,Defensive Midfield,"Feb 2, 1996 (25)",England,"1,78 m",right,"Jul 1, 2016",Tottenham Hotspur U23,"Jun 30, 2024",€20.00m
+PREMIER LEAGUE,Tottenham Hotspur,29,Oliver Skipp,Defensive Midfield,"Sep 16, 2000 (21)",England,"1,75 m",right,"Jul 1, 2018",Tottenham Hotspur U23,"Jun 30, 2024",€15.00m
+PREMIER LEAGUE,Tottenham Hotspur,28,Tanguy Ndombélé,Central Midfield,"Dec 28, 1996 (24)",France,"1,81 m",right,"Jul 2, 2019",Olympique Lyon,"Jun 30, 2025",€45.00m
+PREMIER LEAGUE,Tottenham Hotspur,5,Pierre-Emile Höjbjerg,Central Midfield,"Aug 5, 1995 (26)",Denmark,"1,85 m",right,"Aug 11, 2020",Southampton FC,"Jun 30, 2025",€40.00m
+PREMIER LEAGUE,Tottenham Hotspur,18,Giovani Lo Celso,Central Midfield,"Apr 9, 1996 (25)",Argentina,"1,77 m",left,"Jul 1, 2020",Real Betis Balompié,"Jun 30, 2025",€22.00m
+PREMIER LEAGUE,Tottenham Hotspur,19,Ryan Sessegnon,Left Midfield,"May 18, 2000 (21)",England,"1,78 m",left,"Aug 8, 2019",Fulham FC,"Jun 30, 2025",€18.00m
+PREMIER LEAGUE,Tottenham Hotspur,20,Dele Alli,Attacking Midfield,"Apr 11, 1996 (25)",England,"1,88 m",right,"Feb 2, 2015",Milton Keynes Dons,"Jun 30, 2024",€30.00m
+PREMIER LEAGUE,Tottenham Hotspur,7,Heung-min Son,Left Winger,"Jul 8, 1992 (29)","Korea, South","1,84 m",both,"Aug 28, 2015",Bayer 04 Leverkusen,"Jun 30, 2025",€85.00m
+PREMIER LEAGUE,Tottenham Hotspur,11,Bryan Gil,Left Winger,"Feb 11, 2001 (20)",Spain,"1,75 m",left,"Jul 26, 2021",Sevilla FC,"Jun 30, 2026",€30.00m
+PREMIER LEAGUE,Tottenham Hotspur,23,Steven Bergwijn,Left Winger,"Oct 8, 1997 (24)",Netherlands,"1,78 m",right,"Jan 29, 2020",PSV Eindhoven,"Jun 30, 2025",€22.00m
+PREMIER LEAGUE,Tottenham Hotspur,27,Lucas Moura,Right Winger,"Aug 13, 1992 (29)",Brazil,"1,72 m",right,"Jan 31, 2018",Paris Saint-Germain,"Jun 30, 2024",€25.00m
+PREMIER LEAGUE,Tottenham Hotspur,47,Jack Clarke,Right Winger,"Nov 23, 2000 (21)",England,"1,81 m",right,"Jul 2, 2019",Leeds United,"Jun 30, 2023",€5.00m
+PREMIER LEAGUE,Tottenham Hotspur,10,Harry Kane,Centre-Forward,"Jul 28, 1993 (28)",England,"1,88 m",right,"Jan 1, 2011",Tottenham Hotspur U18,"Jun 30, 2024",€120.00m
+PREMIER LEAGUE,Arsenal FC,32,Aaron Ramsdale,Goalkeeper,"May 14, 1998 (23)",England,"1,91 m",right,"Aug 20, 2021",Sheffield United,"Jun 30, 2025",€20.00m
+PREMIER LEAGUE,Arsenal FC,1,Bernd Leno,Goalkeeper,"Mar 4, 1992 (29)",Germany,"1,90 m",right,"Jul 1, 2018",Bayer 04 Leverkusen,"Jun 30, 2023",€18.00m
+PREMIER LEAGUE,Arsenal FC,4,Ben White,Centre-Back,"Oct 8, 1997 (24)",England,"1,86 m",right,"Jul 30, 2021",Brighton & Hove Albion,"Jun 30, 2026",€40.00m
+PREMIER LEAGUE,Arsenal FC,6,Gabriel,Centre-Back,"Dec 19, 1997 (23)",Brazil,"1,90 m",left,"Sep 1, 2020",LOSC Lille,"Jun 30, 2025",€25.00m
+PREMIER LEAGUE,Arsenal FC,16,Rob Holding,Centre-Back,"Sep 20, 1995 (26)",England,"1,89 m",right,"Jul 22, 2016",Bolton Wanderers,"Jun 30, 2024",€18.00m
+PREMIER LEAGUE,Arsenal FC,22,Pablo Marí,Centre-Back,"Aug 31, 1993 (28)",Spain,"1,93 m",left,"Jul 1, 2020",Clube de Regatas do Flamengo,"Jun 30, 2024",€5.00m
+PREMIER LEAGUE,Arsenal FC,3,Kieran Tierney,Left-Back,"Jun 5, 1997 (24)",Scotland,"1,80 m",left,"Aug 8, 2019",Celtic FC,"Jun 30, 2026",€32.00m
+PREMIER LEAGUE,Arsenal FC,20,Nuno Tavares,Left-Back,"Jan 26, 2000 (21)",Portugal,"1,84 m",left,"Jul 10, 2021",SL Benfica,"Jun 30, 2025",€7.00m
+PREMIER LEAGUE,Arsenal FC,31,Sead Kolasinac,Left-Back,"Jun 20, 1993 (28)",Bosnia-Herzegovina,"1,83 m",left,"Jul 1, 2017",FC Schalke 04,"Jun 30, 2022",€3.50m
+PREMIER LEAGUE,Arsenal FC,18,Takehiro Tomiyasu,Right-Back,"Nov 5, 1998 (23)",Japan,"1,88 m",right,"Aug 31, 2021",Bologna FC 1909,"Jun 30, 2025",€20.00m
+PREMIER LEAGUE,Arsenal FC,21,Calum Chambers,Right-Back,"Jan 20, 1995 (26)",England,"1,82 m",right,"Jul 28, 2014",Southampton FC,"Jun 30, 2022",€12.00m
+PREMIER LEAGUE,Arsenal FC,17,Cédric Soares,Right-Back,"Aug 31, 1991 (30)",Portugal,"1,71 m",right,"Jul 1, 2020",Southampton FC,"Jun 30, 2024",€6.00m
+PREMIER LEAGUE,Arsenal FC,5,Thomas Partey,Defensive Midfield,"Jun 13, 1993 (28)",Ghana,"1,85 m",right,"Oct 5, 2020",Atlético de Madrid,"Jun 30, 2025",€40.00m
+PREMIER LEAGUE,Arsenal FC,34,Granit Xhaka,Defensive Midfield,"Sep 27, 1992 (29)",Switzerland,"1,86 m",left,"Jul 1, 2016",Borussia Mönchengladbach,"Jun 30, 2024",€22.00m
+PREMIER LEAGUE,Arsenal FC,25,Mohamed Elneny,Defensive Midfield,"Jul 11, 1992 (29)",Egypt,"1,79 m",right,"Jan 14, 2016",FC Basel 1893,"Jun 30, 2022",€10.00m
+PREMIER LEAGUE,Arsenal FC,23,Albert Sambi Lokonga,Central Midfield,"Oct 22, 1999 (22)",Belgium,"1,83 m",right,"Jul 19, 2021",RSC Anderlecht,"Jun 30, 2026",€16.00m
+PREMIER LEAGUE,Arsenal FC,15,Ainsley Maitland-Niles,Right Midfield,"Aug 29, 1997 (24)",England,"1,80 m",right,"Jul 1, 2017",Arsenal FC U23,"Jun 30, 2023",€16.00m
+PREMIER LEAGUE,Arsenal FC,7,Bukayo Saka,Left Midfield,"Sep 5, 2001 (20)",England,"1,78 m",left,"Jul 1, 2019",Arsenal FC U23,"Jun 30, 2024",€65.00m
+PREMIER LEAGUE,Arsenal FC,8,Martin Ødegaard,Attacking Midfield,"Dec 17, 1998 (23)",Norway,"1,78 m",left,"Aug 20, 2021",Real Madrid,"Jun 30, 2025",€40.00m
+PREMIER LEAGUE,Arsenal FC,10,Emile Smith Rowe,Attacking Midfield,"Jul 28, 2000 (21)",England,"1,82 m",right,"Aug 1, 2020",Arsenal FC U23,"Jun 30, 2026",€28.00m
+PREMIER LEAGUE,Arsenal FC,35,Gabriel Martinelli,Left Winger,"Jun 18, 2001 (20)",Brazil,"1,76 m",right,"Jul 2, 2019",Ituano Futebol Clube (SP),"Jun 30, 2024",€22.00m
+PREMIER LEAGUE,Arsenal FC,19,Nicolas Pépé,Right Winger,"May 29, 1995 (26)",Cote d'Ivoire,"1,83 m",left,"Aug 1, 2019",LOSC Lille,"Jun 30, 2024",€35.00m
+PREMIER LEAGUE,Arsenal FC,14,Pierre-Emerick Aubameyang,Centre-Forward,"Jun 18, 1989 (32)",Gabon,"1,87 m",right,"Jan 31, 2018",Borussia Dortmund,"Jun 30, 2023",€25.00m
+PREMIER LEAGUE,Arsenal FC,9,Alexandre Lacazette,Centre-Forward,"May 28, 1991 (30)",France,"1,76 m",right,"Jul 5, 2017",Olympique Lyon,"Jun 30, 2022",€22.00m
+PREMIER LEAGUE,Arsenal FC,30,Eddie Nketiah,Centre-Forward,"May 30, 1999 (22)",England,"1,75 m",right,"Jan 1, 2019",Arsenal FC U23,"Jun 30, 2022",€12.00m
+PREMIER LEAGUE,Arsenal FC,26,Folarin Balogun,Centre-Forward,"Jul 3, 2001 (20)",England,"1,79 m",right,-,-,"Jun 30, 2025",€4.00m
+PREMIER LEAGUE,Leicester City,1,Kasper Schmeichel,Goalkeeper,"Nov 5, 1986 (35)",Denmark,"1,89 m",right,"Jul 1, 2011",Leeds United,"Jun 30, 2023",€6.00m
+PREMIER LEAGUE,Leicester City,12,Danny Ward,Goalkeeper,"Jun 22, 1993 (28)",Wales,"1,91 m",right,"Jul 20, 2018",Liverpool FC,"Jun 30, 2025",€6.00m
+PREMIER LEAGUE,Leicester City,35,Eldin Jakupovic,Goalkeeper,"Oct 2, 1984 (37)",Switzerland,"1,91 m",right,"Jul 19, 2017",Hull City,"Jun 30, 2021",€300Th.
+PREMIER LEAGUE,Leicester City,4,Caglar Söyüncü,Centre-Back,"May 23, 1996 (25)",Turkey,"1,87 m",right,"Aug 9, 2018",SC Freiburg,"Jun 30, 2023",€45.00m
+PREMIER LEAGUE,Leicester City,3,Wesley Fofana,Centre-Back,"Dec 17, 2000 (21)",France,"1,90 m",right,"Oct 2, 2020",AS Saint-Étienne,"Jun 30, 2025",€40.00m
+PREMIER LEAGUE,Leicester City,23,Jannik Vestergaard,Centre-Back,"Aug 3, 1992 (29)",Denmark,"1,99 m",both,"Aug 13, 2021",Southampton FC,"Jun 30, 2024",€18.00m
+PREMIER LEAGUE,Leicester City,6,Jonny Evans,Centre-Back,"Jan 3, 1988 (33)",Northern Ireland,"1,88 m",both,"Jul 1, 2018",West Bromwich Albion,"Jun 30, 2023",€7.00m
+PREMIER LEAGUE,Leicester City,18,Daniel Amartey,Centre-Back,"Dec 21, 1994 (26)",Ghana,"1,86 m",right,"Jan 22, 2016",FC Copenhagen,"Jun 30, 2022",€5.00m
+PREMIER LEAGUE,Leicester City,16,Filip Benkovic,Centre-Back,"Jul 13, 1997 (24)",Croatia,"1,94 m",right,"Aug 9, 2018",GNK Dinamo Zagreb,"Jun 30, 2023",€2.80m
+PREMIER LEAGUE,Leicester City,5,Ryan Bertrand,Left-Back,"Aug 5, 1989 (32)",England,"1,79 m",left,"Jul 15, 2021",Southampton FC,"Jun 30, 2023",€8.00m
+PREMIER LEAGUE,Leicester City,33,Luke Thomas,Left-Back,"Jun 10, 2001 (20)",England,"1,81 m",left,"Jul 1, 2020",Leicester City U23,"Jun 30, 2024",€8.00m
+PREMIER LEAGUE,Leicester City,21,Ricardo Pereira,Right-Back,"Oct 6, 1993 (28)",Portugal,"1,75 m",right,"Jul 1, 2018",FC Porto,"Jun 30, 2023",€30.00m
+PREMIER LEAGUE,Leicester City,27,Timothy Castagne,Right-Back,"Dec 5, 1995 (26)",Belgium,"1,85 m",right,"Sep 3, 2020",Atalanta BC,"Jun 30, 2025",€28.00m
+PREMIER LEAGUE,Leicester City,2,James Justin,Right-Back,"Feb 23, 1998 (23)",England,"1,83 m",right,"Jul 1, 2019",Luton Town,"Jun 30, 2024",€17.00m
+PREMIER LEAGUE,Leicester City,25,Wilfred Ndidi,Defensive Midfield,"Dec 16, 1996 (25)",Nigeria,"1,83 m",right,"Jan 3, 2017",KRC Genk,"Jun 30, 2024",€60.00m
+PREMIER LEAGUE,Leicester City,42,Boubakary Soumaré,Defensive Midfield,"Feb 27, 1999 (22)",France,"1,88 m",right,"Jul 2, 2021",LOSC Lille,"Jun 30, 2026",€28.00m
+PREMIER LEAGUE,Leicester City,24,Nampalys Mendy,Defensive Midfield,"Jun 23, 1992 (29)",Senegal,"1,67 m",right,"Jul 3, 2016",OGC Nice,"Jun 30, 2023",€8.00m
+PREMIER LEAGUE,Leicester City,8,Youri Tielemans,Central Midfield,"May 7, 1997 (24)",Belgium,"1,76 m",right,"Jul 8, 2019",AS Monaco,"Jun 30, 2023",€55.00m
+PREMIER LEAGUE,Leicester City,20,Hamza Choudhury,Central Midfield,"Oct 1, 1997 (24)",England,"1,78 m",right,"Jan 1, 2018",Leicester City U23,"Jun 30, 2023",€7.00m
+PREMIER LEAGUE,Leicester City,22,Kiernan Dewsbury-Hall,Central Midfield,"Sep 6, 1998 (23)",England,"1,78 m",left,"Jul 1, 2021",Leicester City U23,"Jun 30, 2024",€2.00m
+PREMIER LEAGUE,Leicester City,11,Marc Albrighton,Right Midfield,"Nov 18, 1989 (32)",England,"1,75 m",right,"Jul 1, 2014",Aston Villa,"Jun 30, 2024",€4.00m
+PREMIER LEAGUE,Leicester City,7,Harvey Barnes,Left Midfield,"Dec 9, 1997 (24)",England,"1,82 m",right,"Jul 1, 2018",Leicester City U23,"Jun 30, 2025",€35.00m
+PREMIER LEAGUE,Leicester City,10,James Maddison,Attacking Midfield,"Nov 23, 1996 (25)",England,"1,75 m",right,"Jul 1, 2018",Norwich City,"Jun 30, 2024",€50.00m
+PREMIER LEAGUE,Leicester City,37,Ademola Lookman,Left Winger,"Oct 20, 1997 (24)",England,"1,74 m",right,"Aug 31, 2021",RB Leipzig,"Jun 30, 2022",€11.00m
+PREMIER LEAGUE,Leicester City,17,Ayoze Pérez,Second Striker,"Jul 29, 1993 (28)",Spain,"1,78 m",right,"Jul 4, 2019",Newcastle United,"Jun 30, 2023",€18.00m
+PREMIER LEAGUE,Leicester City,29,Patson Daka,Centre-Forward,"Oct 9, 1998 (23)",Zambia,"1,83 m",right,"Jul 1, 2021",Red Bull Salzburg,"Jun 30, 2026",€22.00m
+PREMIER LEAGUE,Leicester City,14,Kelechi Iheanacho,Centre-Forward,"Oct 3, 1996 (25)",Nigeria,"1,85 m",left,"Aug 3, 2017",Manchester City,"Jun 30, 2024",€20.00m
+PREMIER LEAGUE,Leicester City,9,Jamie Vardy,Centre-Forward,"Jan 11, 1987 (34)",England,"1,79 m",right,"Jul 1, 2012",Fleetwood Town,"Jun 30, 2023",€7.00m
+PREMIER LEAGUE,Everton FC,1,Jordan Pickford,Goalkeeper,"Mar 7, 1994 (27)",England,"1,85 m",left,"Jul 1, 2017",Sunderland AFC,"Jun 30, 2024",€25.00m
+PREMIER LEAGUE,Everton FC,15,Asmir Begovic,Goalkeeper,"Jun 20, 1987 (34)",Bosnia-Herzegovina,"1,99 m",right,"Jul 20, 2021",AFC Bournemouth,"Jun 30, 2022",€1.20m
+PREMIER LEAGUE,Everton FC,31,Andy Lonergan,Goalkeeper,"Oct 19, 1983 (38)",England,"1,93 m",left,"Aug 20, 2021",West Bromwich Albion,"Jun 30, 2022",€250Th.
+PREMIER LEAGUE,Everton FC,5,Michael Keane,Centre-Back,"Jan 11, 1993 (28)",England,"1,88 m",right,"Jul 3, 2017",Burnley FC,"Jun 30, 2025",€25.00m
+PREMIER LEAGUE,Everton FC,22,Ben Godfrey,Centre-Back,"Jan 15, 1998 (23)",England,"1,86 m",right,"Oct 5, 2020",Norwich City,"Jun 30, 2025",€25.00m
+PREMIER LEAGUE,Everton FC,4,Mason Holgate,Centre-Back,"Oct 22, 1996 (25)",England,"1,87 m",right,"Aug 13, 2015",Barnsley FC,"Jun 30, 2025",€20.00m
+PREMIER LEAGUE,Everton FC,13,Yerry Mina,Centre-Back,"Sep 23, 1994 (27)",Colombia,"1,95 m",right,"Aug 9, 2018",FC Barcelona,"Jun 30, 2023",€20.00m
+PREMIER LEAGUE,Everton FC,32,Jarrad Branthwaite,Centre-Back,"Jun 27, 2002 (19)",England,"1,95 m",left,"Jan 13, 2020",Carlisle United,"Jun 30, 2025",€3.00m
+PREMIER LEAGUE,Everton FC,12,Lucas Digne,Left-Back,"Jul 20, 1993 (28)",France,"1,78 m",left,"Aug 1, 2018",FC Barcelona,"Jun 30, 2025",€35.00m
+PREMIER LEAGUE,Everton FC,2,Jonjoe Kenny,Right-Back,"Mar 15, 1997 (24)",England,"1,76 m",right,"Jul 1, 2017",Everton FC U23,"Jun 30, 2022",€5.80m
+PREMIER LEAGUE,Everton FC,23,Seamus Coleman,Right-Back,"Oct 11, 1988 (33)",Ireland,"1,77 m",right,"Jan 1, 2009",Sligo Rovers,"Jun 30, 2023",€5.00m
+PREMIER LEAGUE,Everton FC,25,Jean-Philippe Gbamin,Defensive Midfield,"Sep 25, 1995 (26)",Cote d'Ivoire,"1,86 m",right,"Aug 2, 2019",1.FSV Mainz 05,"Jun 30, 2024",€15.00m
+PREMIER LEAGUE,Everton FC,16,Abdoulaye Doucouré,Central Midfield,"Jan 1, 1993 (28)",France,"1,83 m",right,"Sep 8, 2020",Watford FC,"Jun 30, 2023",€25.00m
+PREMIER LEAGUE,Everton FC,6,Allan,Central Midfield,"Jan 8, 1991 (30)",Brazil,"1,75 m",right,"Sep 5, 2020",SSC Napoli,"Jun 30, 2023",€22.00m
+PREMIER LEAGUE,Everton FC,21,André Gomes,Central Midfield,"Jul 30, 1993 (28)",Portugal,"1,88 m",right,"Jul 1, 2019",FC Barcelona,"Jun 30, 2024",€20.00m
+PREMIER LEAGUE,Everton FC,26,Tom Davies,Central Midfield,"Jun 30, 1998 (23)",England,"1,80 m",right,"Jan 1, 2017",Everton FC U23,"Jun 30, 2023",€18.00m
+PREMIER LEAGUE,Everton FC,8,Fabian Delph,Central Midfield,"Nov 21, 1989 (32)",England,"1,74 m",left,"Jul 15, 2019",Manchester City,"Jun 30, 2022",€3.50m
+PREMIER LEAGUE,Everton FC,10,Gylfi Sigurdsson,Attacking Midfield,"Sep 8, 1989 (32)",Iceland,"1,86 m",right,"Aug 16, 2017",Swansea City,"Jun 30, 2022",€3.00m
+PREMIER LEAGUE,Everton FC,17,Alex Iwobi,Left Winger,"May 3, 1996 (25)",Nigeria,"1,83 m",right,"Aug 8, 2019",Arsenal FC,"Jun 30, 2024",€22.00m
+PREMIER LEAGUE,Everton FC,11,Demarai Gray,Left Winger,"Jun 28, 1996 (25)",England,"1,83 m",right,"Jul 22, 2021",Bayer 04 Leverkusen,"Jun 30, 2024",€15.00m
+PREMIER LEAGUE,Everton FC,24,Anthony Gordon,Left Winger,"Feb 24, 2001 (20)",England,"1,82 m",right,"Jan 1, 2020",Everton FC U23,"Jun 30, 2025",€5.00m
+PREMIER LEAGUE,Everton FC,14,Andros Townsend,Right Winger,"Jul 16, 1991 (30)",England,"1,81 m",left,"Jul 20, 2021",Crystal Palace,"Jun 30, 2023",€7.00m
+PREMIER LEAGUE,Everton FC,7,Richarlison,Centre-Forward,"May 10, 1997 (24)",Brazil,"1,84 m",right,"Jul 24, 2018",Watford FC,"Jun 30, 2024",€55.00m
+PREMIER LEAGUE,Everton FC,9,Dominic Calvert-Lewin,Centre-Forward,"Mar 16, 1997 (24)",England,"1,89 m",right,"Aug 31, 2016",Sheffield United,"Jun 30, 2025",€45.00m
+PREMIER LEAGUE,Everton FC,33,Salomón Rondón,Centre-Forward,"Sep 16, 1989 (32)",Venezuela,"1,86 m",right,"Aug 31, 2021",Dalian Professional,"Jun 30, 2023",€5.00m
+PREMIER LEAGUE,Everton FC,28,Cenk Tosun,Centre-Forward,"Jun 7, 1991 (30)",Turkey,"1,83 m",right,"Jan 5, 2018",Besiktas JK,"Jun 30, 2022",€3.00m
+PREMIER LEAGUE,Aston Villa,1,Emiliano Martínez,Goalkeeper,"Sep 2, 1992 (29)",Argentina,"1,95 m",right,"Sep 16, 2020",Arsenal FC,"Jun 30, 2024",€35.00m
+PREMIER LEAGUE,Aston Villa,12,Jed Steer,Goalkeeper,"Sep 23, 1992 (29)",England,"1,83 m",left,"Jul 1, 2013",Norwich City,"Jun 30, 2023",€800Th.
+PREMIER LEAGUE,Aston Villa,5,Tyrone Mings,Centre-Back,"Mar 13, 1993 (28)",England,"1,95 m",left,"Jul 8, 2019",AFC Bournemouth,"Jun 30, 2024",€30.00m
+PREMIER LEAGUE,Aston Villa,4,Ezri Konsa,Centre-Back,"Oct 23, 1997 (24)",England,"1,83 m",right,"Jul 11, 2019",Brentford FC,"Jun 30, 2026",€25.00m
+PREMIER LEAGUE,Aston Villa,16,Axel Tuanzebe,Centre-Back,"Nov 14, 1997 (24)",England,"1,85 m",right,"Aug 8, 2021",Manchester United,"May 31, 2022",€8.00m
+PREMIER LEAGUE,Aston Villa,30,Kortney Hause,Centre-Back,"Jul 16, 1995 (26)",England,"1,91 m",left,"Jul 1, 2019",Wolverhampton Wanderers,"Jun 30, 2022",€5.00m
+PREMIER LEAGUE,Aston Villa,3,Matt Targett,Left-Back,"Sep 18, 1995 (26)",England,"1,83 m",left,"Jul 1, 2019",Southampton FC,"Jun 30, 2025",€17.00m
+PREMIER LEAGUE,Aston Villa,18,Ashley Young,Left-Back,"Jul 9, 1985 (36)",England,"1,75 m",both,"Jul 1, 2021",Inter Milan,"Jun 30, 2022",€1.00m
+PREMIER LEAGUE,Aston Villa,2,Matty Cash,Right-Back,"Aug 7, 1997 (24)",Poland,"1,85 m",right,"Sep 3, 2020",Nottingham Forest,"Jun 30, 2025",€22.00m
+PREMIER LEAGUE,Aston Villa,6,Douglas Luiz,Defensive Midfield,"May 9, 1998 (23)",Brazil,"1,77 m",right,"Jul 25, 2019",Manchester City,"Jun 30, 2023",€35.00m
+PREMIER LEAGUE,Aston Villa,19,Marvelous Nakamba,Defensive Midfield,"Jan 19, 1994 (27)",Zimbabwe,"1,77 m",left,"Aug 1, 2019",Club Brugge KV,"Jun 30, 2024",€7.00m
+PREMIER LEAGUE,Aston Villa,7,John McGinn,Central Midfield,"Oct 18, 1994 (27)",Scotland,"1,78 m",left,"Aug 8, 2018",Hibernian FC,"Jun 30, 2025",€30.00m
+PREMIER LEAGUE,Aston Villa,8,Morgan Sanson,Central Midfield,"Aug 18, 1994 (27)",France,"1,80 m",right,"Jan 26, 2021",Olympique Marseille,"Jun 30, 2025",€16.00m
+PREMIER LEAGUE,Aston Villa,33,Carney Chukwuemeka,Central Midfield,"Oct 20, 2003 (18)",England,"1,85 m",right,"Jul 1, 2021",Aston Villa U23,"Jun 30, 2023",€2.50m
+PREMIER LEAGUE,Aston Villa,41,Jacob Ramsey,Attacking Midfield,"May 28, 2001 (20)",England,"1,80 m",right,"Jul 1, 2020",Aston Villa U23,"Jun 30, 2025",€8.00m
+PREMIER LEAGUE,Aston Villa,31,Leon Bailey,Left Winger,"Aug 9, 1997 (24)",Jamaica,"1,78 m",left,"Aug 4, 2021",Bayer 04 Leverkusen,"Jun 30, 2025",€35.00m
+PREMIER LEAGUE,Aston Villa,17,Trezeguet,Left Winger,"Oct 1, 1994 (27)",Egypt,"1,79 m",right,"Jul 24, 2019",Kasimpasa,"Jun 30, 2023",€10.00m
+PREMIER LEAGUE,Aston Villa,32,Jaden Philogene-Bidace,Left Winger,"Feb 8, 2002 (19)",England,"1,80 m",right,"Jul 1, 2021",Aston Villa U23,"Jun 30, 2024",€500Th.
+PREMIER LEAGUE,Aston Villa,10,Emiliano Buendía,Right Winger,"Dec 25, 1996 (24)",Argentina,"1,72 m",right,"Jul 1, 2021",Norwich City,"Jun 30, 2026",€35.00m
+PREMIER LEAGUE,Aston Villa,15,Bertrand Traoré,Right Winger,"Sep 6, 1995 (26)",Burkina Faso,"1,81 m",left,"Sep 19, 2020",Olympique Lyon,"Jun 30, 2024",€20.00m
+PREMIER LEAGUE,Aston Villa,21,Anwar El Ghazi,Right Winger,"May 3, 1995 (26)",Netherlands,"1,89 m",right,"Jul 1, 2019",LOSC Lille,"Jun 30, 2023",€13.00m
+PREMIER LEAGUE,Aston Villa,11,Ollie Watkins,Centre-Forward,"Dec 30, 1995 (25)",England,"1,80 m",right,"Sep 9, 2020",Brentford FC,"Jun 30, 2025",€32.00m
+PREMIER LEAGUE,Aston Villa,20,Danny Ings,Centre-Forward,"Jul 23, 1992 (29)",England,"1,78 m",right,"Aug 4, 2021",Southampton FC,"Jun 30, 2024",€22.00m
+PREMIER LEAGUE,Aston Villa,39,Keinan Davis,Centre-Forward,"Feb 13, 1998 (23)",England,"1,89 m",left,"Jul 1, 2017",Aston Villa U23,"Jun 30, 2024",€3.00m
+PREMIER LEAGUE,Aston Villa,35,Cameron Archer,Centre-Forward,"Dec 9, 2001 (20)",England,"1,75 m",right,-,-,"Jun 30, 2025",€300Th.
+PREMIER LEAGUE,Wolverhampton Wanderers,1,José Sá,Goalkeeper,"Jan 17, 1993 (28)",Portugal,"1,92 m",right,"Jul 15, 2021",Olympiacos Piraeus,"Jun 30, 2026",€7.50m
+PREMIER LEAGUE,Wolverhampton Wanderers,21,John Ruddy,Goalkeeper,"Oct 24, 1986 (35)",England,"1,92 m",right,"Jul 10, 2017",Norwich City,"Jun 30, 2022",€800Th.
+PREMIER LEAGUE,Wolverhampton Wanderers,16,Conor Coady,Centre-Back,"Feb 25, 1993 (28)",England,"1,85 m",right,"Jul 3, 2015",Huddersfield Town,"Jun 30, 2025",€25.00m
+PREMIER LEAGUE,Wolverhampton Wanderers,15,Willy Boly,Centre-Back,"Feb 3, 1991 (30)",Cote d'Ivoire,"1,95 m",right,"Jul 1, 2018",FC Porto,"Jun 30, 2023",€10.00m
+PREMIER LEAGUE,Wolverhampton Wanderers,27,Romain Saïss,Centre-Back,"Mar 26, 1990 (31)",Morocco,"1,88 m",left,"Aug 30, 2016",SCO Angers,"Jun 30, 2022",€10.00m
+PREMIER LEAGUE,Wolverhampton Wanderers,23,Max Kilman,Centre-Back,"May 23, 1997 (24)",England,"1,92 m",left,"Aug 9, 2018",Maidenhead United,"Jun 30, 2026",€4.50m
+PREMIER LEAGUE,Wolverhampton Wanderers,14,Yerson Mosquera,Centre-Back,"May 2, 2001 (20)",Colombia,"1,88 m",right,"Jul 1, 2021",Atlético Nacional,"Jun 30, 2026",€1.70m
+PREMIER LEAGUE,Wolverhampton Wanderers,3,Rayan Aït Nouri,Left-Back,"Jun 6, 2001 (20)",France,"1,79 m",left,"Jul 9, 2021",SCO Angers,"Jun 30, 2026",€18.00m
+PREMIER LEAGUE,Wolverhampton Wanderers,19,Jonny Otto,Left-Back,"Mar 3, 1994 (27)",Spain,"1,75 m",both,"Jan 31, 2019",Atlético de Madrid,"Jun 30, 2025",€15.00m
+PREMIER LEAGUE,Wolverhampton Wanderers,5,Marçal,Left-Back,"Feb 19, 1989 (32)",Brazil,"1,78 m",left,"Sep 6, 2020",Olympique Lyon,"Jun 30, 2022",€1.80m
+PREMIER LEAGUE,Wolverhampton Wanderers,22,Nélson Semedo,Right-Back,"Nov 16, 1993 (28)",Portugal,"1,77 m",right,"Sep 23, 2020",FC Barcelona,"Jun 30, 2023",€28.00m
+PREMIER LEAGUE,Wolverhampton Wanderers,2,Ki-Jana Hoever,Right-Back,"Jan 18, 2002 (19)",Netherlands,"1,83 m",right,"Sep 19, 2020",Liverpool FC U23,"Jun 30, 2025",€7.00m
+PREMIER LEAGUE,Wolverhampton Wanderers,-,Oskar Buur,Right-Back,"Mar 31, 1998 (23)",Denmark,"1,80 m",right,"Jan 1, 2020",Wolverhampton Wanderers U23,"Jun 30, 2023",€300Th.
+PREMIER LEAGUE,Wolverhampton Wanderers,8,Rúben Neves,Defensive Midfield,"Mar 13, 1997 (24)",Portugal,"1,80 m",right,"Jul 8, 2017",FC Porto,"Jun 30, 2024",€42.00m
+PREMIER LEAGUE,Wolverhampton Wanderers,32,Leander Dendoncker,Defensive Midfield,"Apr 15, 1995 (26)",Belgium,"1,88 m",right,"Jul 1, 2019",RSC Anderlecht,"Jun 30, 2023",€30.00m
+PREMIER LEAGUE,Wolverhampton Wanderers,28,João Moutinho,Central Midfield,"Sep 8, 1986 (35)",Portugal,"1,70 m",right,"Jul 24, 2018",AS Monaco,"Jun 30, 2022",€4.00m
+PREMIER LEAGUE,Wolverhampton Wanderers,6,Bruno Jordão,Central Midfield,"Oct 12, 1998 (23)",Portugal,"1,80 m",right,"Aug 2, 2019",SS Lazio,"Jun 30, 2024",€2.50m
+PREMIER LEAGUE,Wolverhampton Wanderers,7,Pedro Neto,Left Winger,"Mar 9, 2000 (21)",Portugal,"1,72 m",left,"Aug 2, 2019",SS Lazio,"Jun 30, 2025",€35.00m
+PREMIER LEAGUE,Wolverhampton Wanderers,37,Adama Traoré,Right Winger,"Jan 25, 1996 (25)",Spain,"1,78 m",right,"Aug 8, 2018",Middlesbrough FC,"Jun 30, 2023",€30.00m
+PREMIER LEAGUE,Wolverhampton Wanderers,10,Daniel Podence,Right Winger,"Oct 21, 1995 (26)",Portugal,"1,65 m",right,"Jan 30, 2020",Olympiacos Piraeus,"Jun 30, 2024",€25.00m
+PREMIER LEAGUE,Wolverhampton Wanderers,11,Francisco Trincão,Right Winger,"Dec 29, 1999 (21)",Portugal,"1,84 m",left,"Jul 4, 2021",FC Barcelona,"Jun 30, 2022",€22.00m
+PREMIER LEAGUE,Wolverhampton Wanderers,9,Raúl Jiménez,Centre-Forward,"May 5, 1991 (30)",Mexico,"1,88 m",right,"Jul 1, 2019",SL Benfica,"Jun 30, 2024",€28.00m
+PREMIER LEAGUE,Wolverhampton Wanderers,17,Fábio Silva,Centre-Forward,"Jul 19, 2002 (19)",Portugal,"1,85 m",right,"Sep 5, 2020",FC Porto,"Jun 30, 2025",€25.00m
+PREMIER LEAGUE,Wolverhampton Wanderers,26,Hee-chan Hwang,Centre-Forward,"Jan 26, 1996 (25)","Korea, South","1,77 m",right,"Aug 29, 2021",RB Leipzig,"Jun 30, 2022",€11.00m
+PREMIER LEAGUE,West Ham United,13,Alphonse Areola,Goalkeeper,"Feb 27, 1993 (28)",France,"1,95 m",right,"Jul 29, 2021",Paris Saint-Germain,"Jun 30, 2022",€14.00m
+PREMIER LEAGUE,West Ham United,1,Lukasz Fabianski,Goalkeeper,"Apr 18, 1985 (36)",Poland,"1,90 m",right,"Jul 1, 2018",Swansea City,"Jun 30, 2022",€1.50m
+PREMIER LEAGUE,West Ham United,35,Darren Randolph,Goalkeeper,"May 12, 1987 (34)",Ireland,"1,87 m",right,"Jan 15, 2020",Middlesbrough FC,"Jun 30, 2023",€1.50m
+PREMIER LEAGUE,West Ham United,25,David Martin,Goalkeeper,"Jan 22, 1986 (35)",England,"1,88 m",right,"Jul 1, 2019",Millwall FC,"Jun 30, 2022",€250Th.
+PREMIER LEAGUE,West Ham United,4,Kurt Zouma,Centre-Back,"Oct 27, 1994 (27)",France,"1,90 m",right,"Aug 28, 2021",Chelsea FC,"Jun 30, 2025",€32.00m
+PREMIER LEAGUE,West Ham United,23,Issa Diop,Centre-Back,"Jan 9, 1997 (24)",France,"1,94 m",right,"Jul 1, 2018",FC Toulouse,"Jun 30, 2023",€15.00m
+PREMIER LEAGUE,West Ham United,15,Craig Dawson,Centre-Back,"May 6, 1990 (31)",England,"1,88 m",right,"Jul 1, 2021",Watford FC,"Jun 30, 2023",€3.00m
+PREMIER LEAGUE,West Ham United,21,Angelo Ogbonna,Centre-Back,"May 23, 1988 (33)",Italy,"1,91 m",left,"Jul 10, 2015",Juventus FC,"Jun 30, 2022",€2.50m
+PREMIER LEAGUE,West Ham United,26,Arthur Masuaku,Left-Back,"Nov 7, 1993 (28)",DR Congo,"1,79 m",left,"Aug 8, 2016",Olympiacos Piraeus,"Jun 30, 2024",€7.00m
+PREMIER LEAGUE,West Ham United,3,Aaron Cresswell,Left-Back,"Dec 15, 1989 (32)",England,"1,70 m",left,"Jul 3, 2014",Ipswich Town,"Jun 30, 2023",€5.00m
+PREMIER LEAGUE,West Ham United,5,Vladimir Coufal,Right-Back,"Aug 22, 1992 (29)",Czech Republic,"1,79 m",right,"Oct 2, 2020",SK Slavia Prague,"Jun 30, 2023",€12.00m
+PREMIER LEAGUE,West Ham United,31,Ben Johnson,Right-Back,"Jan 24, 2000 (21)",England,"1,84 m",right,"Jul 1, 2020",West Ham United U23,"Jun 30, 2022",€3.00m
+PREMIER LEAGUE,West Ham United,24,Ryan Fredericks,Right-Back,"Oct 10, 1992 (29)",England,"1,81 m",right,"Jul 1, 2018",Fulham FC,"Jun 30, 2022",€2.50m
+PREMIER LEAGUE,West Ham United,41,Declan Rice,Defensive Midfield,"Jan 14, 1999 (22)",England,"1,88 m",right,"Jul 1, 2017",West Ham United U23,"Jun 30, 2024",€70.00m
+PREMIER LEAGUE,West Ham United,28,Tomas Soucek,Defensive Midfield,"Feb 27, 1995 (26)",Czech Republic,"1,92 m",right,"Jul 27, 2020",SK Slavia Prague,"Jun 30, 2024",€42.00m
+PREMIER LEAGUE,West Ham United,33,Alex Kral,Defensive Midfield,"May 19, 1998 (23)",Czech Republic,"1,87 m",right,"Aug 31, 2021",Spartak Moscow,"Jun 30, 2022",€10.00m
+PREMIER LEAGUE,West Ham United,16,Mark Noble,Central Midfield,"May 8, 1987 (34)",England,"1,80 m",right,"Jan 1, 2004",West Ham United U18,"Jun 30, 2022",€2.00m
+PREMIER LEAGUE,West Ham United,11,Nikola Vlasic,Attacking Midfield,"Oct 4, 1997 (24)",Croatia,"1,78 m",right,"Aug 31, 2021",CSKA Moscow,"Jun 30, 2026",€30.00m
+PREMIER LEAGUE,West Ham United,8,Pablo Fornals,Attacking Midfield,"Feb 22, 1996 (25)",Spain,"1,78 m",right,"Jul 1, 2019",Villarreal CF,"Jun 30, 2024",€20.00m
+PREMIER LEAGUE,West Ham United,10,Manuel Lanzini,Attacking Midfield,"Feb 15, 1993 (28)",Argentina,"1,67 m",right,"Jul 1, 2016",Al-Jazira (Abu Dhabi),"Jun 30, 2023",€10.00m
+PREMIER LEAGUE,West Ham United,22,Saïd Benrahma,Left Winger,"Aug 10, 1995 (26)",Algeria,"1,72 m",right,"Jan 29, 2021",Brentford FC,"Jun 30, 2026",€25.00m
+PREMIER LEAGUE,West Ham United,20,Jarrod Bowen,Right Winger,"Dec 20, 1996 (24)",England,"1,82 m",left,"Jan 31, 2020",Hull City,"Jun 30, 2025",€30.00m
+PREMIER LEAGUE,West Ham United,7,Andriy Yarmolenko,Right Winger,"Oct 23, 1989 (32)",Ukraine,"1,89 m",left,"Jul 11, 2018",Borussia Dortmund,"Jun 30, 2022",€4.00m
+PREMIER LEAGUE,West Ham United,9,Michail Antonio,Centre-Forward,"Mar 28, 1990 (31)",Jamaica,"1,80 m",right,"Sep 1, 2015",Nottingham Forest,"Jun 30, 2023",€12.00m
+PREMIER LEAGUE,Leeds United,1,Illan Meslier,Goalkeeper,"Mar 2, 2000 (21)",France,"1,97 m",left,"Jul 27, 2020",FC Lorient,"Jun 30, 2026",€20.00m
+PREMIER LEAGUE,Leeds United,13,Kristoffer Klaesson,Goalkeeper,"Nov 27, 2000 (21)",Norway,"1,89 m",left,"Jul 31, 2021",Vålerenga Fotball,"Jun 30, 2025",€2.00m
+PREMIER LEAGUE,Leeds United,14,Diego Llorente,Centre-Back,"Aug 16, 1993 (28)",Spain,"1,86 m",right,"Sep 24, 2020",Real Sociedad,"Jun 30, 2024",€20.00m
+PREMIER LEAGUE,Leeds United,5,Robin Koch,Centre-Back,"Jul 17, 1996 (25)",Germany,"1,91 m",right,"Aug 29, 2020",SC Freiburg,"Jun 30, 2024",€17.00m
+PREMIER LEAGUE,Leeds United,21,Pascal Struijk,Centre-Back,"Aug 11, 1999 (22)",Netherlands,"1,90 m",left,"Jan 1, 2020",Leeds United U23,"Jun 30, 2024",€9.00m
+PREMIER LEAGUE,Leeds United,6,Liam Cooper,Centre-Back,"Aug 30, 1991 (30)",Scotland,"1,86 m",left,"Aug 13, 2014",Chesterfield FC,"Jun 30, 2024",€7.00m
+PREMIER LEAGUE,Leeds United,35,Charlie Cresswell,Centre-Back,"Aug 17, 2002 (19)",England,"1,9 m",right,-,-,"Jun 30, 2025",€200Th.
+PREMIER LEAGUE,Leeds United,3,Junior Firpo,Left-Back,"Aug 22, 1996 (25)",Dominican Republic,"1,84 m",left,"Jul 6, 2021",FC Barcelona,"Jun 30, 2025",€12.00m
+PREMIER LEAGUE,Leeds United,45,Liam McCarron,Left-Back,"Mar 7, 2001 (20)",Scotland,"1,75 m",left,"Jul 1, 2019",Carlisle United,"Jun 30, 2022",-
+PREMIER LEAGUE,Leeds United,2,Luke Ayling,Right-Back,"Aug 25, 1991 (30)",England,"1,83 m",right,"Aug 11, 2016",Bristol City,"Jun 30, 2023",€5.00m
+PREMIER LEAGUE,Leeds United,15,Stuart Dallas,Right-Back,"Apr 19, 1991 (30)",Northern Ireland,"1,83 m",right,"Aug 4, 2015",Brentford FC,"Jun 30, 2024",€4.00m
+PREMIER LEAGUE,Leeds United,37,Cody Drameh,Right-Back,"Dec 8, 2001 (20)",England,"1,75 m",right,-,-,"Jun 30, 2024",-
+PREMIER LEAGUE,Leeds United,23,Kalvin Phillips,Defensive Midfield,"Dec 2, 1995 (26)",England,"1,78 m",right,"Jul 1, 2015",Leeds United U21,"Jun 30, 2024",€40.00m
+PREMIER LEAGUE,Leeds United,43,Mateusz Klich,Central Midfield,"Jun 13, 1990 (31)",Poland,"1,83 m",right,"Jul 1, 2017",Twente Enschede FC,"Jun 30, 2024",€4.00m
+PREMIER LEAGUE,Leeds United,46,Jamie Shackleton,Central Midfield,"Oct 8, 1999 (22)",England,"1,68 m",right,"Jul 1, 2018",Leeds United U23,"Jun 30, 2024",€2.50m
+PREMIER LEAGUE,Leeds United,4,Adam Forshaw,Central Midfield,"Oct 8, 1991 (30)",England,"1,75 m",right,"Jan 18, 2018",Middlesbrough FC,"Jun 30, 2022",€2.00m
+PREMIER LEAGUE,Leeds United,20,Daniel James,Left Winger,"Nov 10, 1997 (24)",Wales,"1,70 m",right,"Aug 31, 2021",Manchester United,"Jun 30, 2026",€18.00m
+PREMIER LEAGUE,Leeds United,22,Jack Harrison,Left Winger,"Nov 20, 1996 (25)",England,"1,75 m",left,"Jul 2, 2021",Manchester City,"Jun 30, 2024",€15.00m
+PREMIER LEAGUE,Leeds United,10,Raphinha,Right Winger,"Dec 14, 1996 (25)",Brazil,"1,75 m",left,"Oct 5, 2020",Stade Rennais FC,"Jun 30, 2024",€32.00m
+PREMIER LEAGUE,Leeds United,38,Crysencio Summerville,Right Winger,"Oct 30, 2001 (20)",Netherlands,"1,74 m",right,"Jul 1, 2021",Leeds United U23,"Jun 30, 2023",€1.50m
+PREMIER LEAGUE,Leeds United,19,Rodrigo,Second Striker,"Mar 6, 1991 (30)",Spain,"1,82 m",left,"Aug 29, 2020",Valencia CF,"Jun 30, 2024",€18.00m
+PREMIER LEAGUE,Leeds United,11,Tyler Roberts,Second Striker,"Jan 12, 1999 (22)",Wales,"1,80 m",right,"Jan 31, 2018",West Bromwich Albion U23,"Jun 30, 2024",€6.00m
+PREMIER LEAGUE,Leeds United,9,Patrick Bamford,Centre-Forward,"Sep 5, 1993 (28)",England,"1,85 m",left,"Jul 31, 2018",Middlesbrough FC,"Jun 30, 2026",€22.00m
+PREMIER LEAGUE,Leeds United,30,Joe Gelhardt,Centre-Forward,"May 4, 2002 (19)",England,"1,79 m",left,-,-,"Jun 30, 2024",€1.30m
+PREMIER LEAGUE,Leeds United,42,Sam Greenwood,Centre-Forward,"Jan 26, 2002 (19)",England,"1,80 m",-,-,-,"Jun 30, 2023",€200Th.
+PREMIER LEAGUE,Brighton & Hove Albion,1,Robert Sánchez,Goalkeeper,"Nov 18, 1997 (24)",Spain,"1,97 m",-,"Jul 1, 2020",Brighton & Hove Albion U23,"Jun 30, 2025",€11.00m
+PREMIER LEAGUE,Brighton & Hove Albion,16,Kjell Scherpen,Goalkeeper,"Jan 23, 2000 (21)",Netherlands,"2,04 m",right,"Jul 16, 2021",Ajax Amsterdam,-,€2.80m
+PREMIER LEAGUE,Brighton & Hove Albion,23,Jason Steele,Goalkeeper,"Aug 18, 1990 (31)",England,"1,88 m",right,"Jul 1, 2018",Sunderland AFC,"Jun 30, 2023",€800Th.
+PREMIER LEAGUE,Brighton & Hove Albion,5,Lewis Dunk,Centre-Back,"Nov 21, 1991 (30)",England,"1,92 m",right,"Jul 1, 2010",Brighton & Hove Albion U18,"Jun 30, 2025",€25.00m
+PREMIER LEAGUE,Brighton & Hove Albion,4,Adam Webster,Centre-Back,"Jan 4, 1995 (26)",England,"1,90 m",right,"Aug 3, 2019",Bristol City,"Jun 30, 2026",€18.00m
+PREMIER LEAGUE,Brighton & Hove Albion,24,Shane Duffy,Centre-Back,"Jan 1, 1992 (29)",Ireland,"1,93 m",right,"Aug 26, 2016",Blackburn Rovers,"Jun 30, 2023",€5.00m
+PREMIER LEAGUE,Brighton & Hove Albion,33,Dan Burn,Centre-Back,"May 9, 1992 (29)",England,"2,01 m",left,"Aug 9, 2018",Wigan Athletic,"Jun 30, 2023",€5.00m
+PREMIER LEAGUE,Brighton & Hove Albion,28,Haydon Roberts,Centre-Back,"May 10, 2002 (19)",England,"1,82 m",left,"Jul 1, 2021",Brighton & Hove Albion U23,"Jun 30, 2023",€500Th.
+PREMIER LEAGUE,Brighton & Hove Albion,3,Marc Cucurella,Left-Back,"Jul 22, 1998 (23)",Spain,"1,75 m",left,"Aug 31, 2021",Getafe CF,"Jun 30, 2026",€20.00m
+PREMIER LEAGUE,Brighton & Hove Albion,2,Tariq Lamptey,Right-Back,"Sep 30, 2000 (21)",England,"1,63 m",right,"Jan 31, 2020",Chelsea FC U23,"Jun 30, 2025",€18.00m
+PREMIER LEAGUE,Brighton & Hove Albion,34,Joël Veltman,Right-Back,"Jan 15, 1992 (29)",Netherlands,"1,84 m",right,"Jul 29, 2020",Ajax Amsterdam,"Jun 30, 2023",€6.00m
+PREMIER LEAGUE,Brighton & Hove Albion,35,Tudor Baluta,Defensive Midfield,"Mar 27, 1999 (22)",Romania,"1,92 m",right,"Jan 31, 2019",FC Viitorul Constanta,"Jun 30, 2022",€2.00m
+PREMIER LEAGUE,Brighton & Hove Albion,8,Yves Bissouma,Central Midfield,"Aug 30, 1996 (25)",Mali,"1,82 m",right,"Jul 17, 2018",LOSC Lille,"Jun 30, 2023",€25.00m
+PREMIER LEAGUE,Brighton & Hove Albion,12,Enock Mwepu,Central Midfield,"Jan 1, 1998 (23)",Zambia,"1,84 m",right,"Jul 6, 2021",Red Bull Salzburg,"Jun 30, 2025",€20.00m
+PREMIER LEAGUE,Brighton & Hove Albion,15,Jakub Moder,Central Midfield,"Apr 7, 1999 (22)",Poland,"1,91 m",right,"Oct 4, 2020",Lech Poznan,"Jun 30, 2025",€10.00m
+PREMIER LEAGUE,Brighton & Hove Albion,13,Pascal Groß,Central Midfield,"Jun 15, 1991 (30)",Germany,"1,81 m",right,"Jul 1, 2017",FC Ingolstadt 04,"Jun 30, 2022",€7.00m
+PREMIER LEAGUE,Brighton & Hove Albion,17,Steven Alzate,Central Midfield,"Sep 8, 1998 (23)",Colombia,"1,80 m",right,"Jul 1, 2019",Brighton & Hove Albion U23,"Jun 30, 2024",€6.00m
+PREMIER LEAGUE,Brighton & Hove Albion,20,Solly March,Left Midfield,"Jul 20, 1994 (27)",England,"1,80 m",left,"Jul 1, 2013",Brighton & Hove Albion U18,"Jun 30, 2024",€9.00m
+PREMIER LEAGUE,Brighton & Hove Albion,10,Alexis Mac Allister,Attacking Midfield,"Dec 24, 1998 (22)",Argentina,"1,74 m",right,"Jan 24, 2019",Asociación Atlética Argentinos Juniors,"Jun 30, 2023",€10.00m
+PREMIER LEAGUE,Brighton & Hove Albion,14,Adam Lallana,Attacking Midfield,"May 10, 1988 (33)",England,"1,72 m",both,"Jul 27, 2020",Liverpool FC,"Jun 30, 2023",€4.00m
+PREMIER LEAGUE,Brighton & Hove Albion,30,Taylor Richards,Attacking Midfield,"Dec 4, 2000 (21)",England,"1,80 m",left,"Jul 1, 2021",Brighton & Hove Albion U23,"Jun 30, 2024",€400Th.
+PREMIER LEAGUE,Brighton & Hove Albion,11,Leandro Trossard,Left Winger,"Dec 4, 1994 (27)",Belgium,"1,72 m",right,"Jul 1, 2019",KRC Genk,"Jun 30, 2023",€17.00m
+PREMIER LEAGUE,Brighton & Hove Albion,9,Neal Maupay,Centre-Forward,"Aug 14, 1996 (25)",France,"1,73 m",right,"Aug 5, 2019",Brentford FC,"Jun 30, 2023",€20.00m
+PREMIER LEAGUE,Brighton & Hove Albion,7,Aaron Connolly,Centre-Forward,"Jan 28, 2000 (21)",Ireland,"1,75 m",right,"Jul 1, 2019",Brighton & Hove Albion U23,"Jun 30, 2024",€7.00m
+PREMIER LEAGUE,Brighton & Hove Albion,18,Danny Welbeck,Centre-Forward,"Nov 26, 1990 (31)",England,"1,85 m",right,"Oct 18, 2020",Watford FC,"Jun 30, 2022",€4.00m
+PREMIER LEAGUE,Brighton & Hove Albion,27,Jürgen Locadia,Centre-Forward,"Nov 7, 1993 (28)",Netherlands,"1,85 m",right,"Jan 19, 2018",PSV Eindhoven,"Jun 30, 2022",€3.50m
+PREMIER LEAGUE,Southampton FC,1,Jack Butland,Goalkeeper,"Mar 10, 1993 (28)",England,"1,96 m",right,"Oct 16, 2020",Stoke City,"Jun 30, 2023",€2.00m
+PREMIER LEAGUE,Southampton FC,13,Vicente Guaita,Goalkeeper,"Jan 10, 1987 (34)",Spain,"1,90 m",right,"Jul 1, 2018",Getafe CF,"Jun 30, 2023",€2.00m
+PREMIER LEAGUE,Southampton FC,19,Remi Matthews,Goalkeeper,"Feb 10, 1994 (27)",England,"1,92 m",right,"Jul 12, 2021",Sunderland AFC,"Jun 30, 2023",€300Th.
+PREMIER LEAGUE,Southampton FC,16,Joachim Andersen,Centre-Back,"May 31, 1996 (25)",Denmark,"1,92 m",right,"Jul 28, 2021",Olympique Lyon,"Jun 30, 2026",€22.00m
+PREMIER LEAGUE,Southampton FC,6,Marc Guehi,Centre-Back,"Jul 13, 2000 (21)",England,"1,82 m",right,"Jul 18, 2021",Chelsea FC U23,"Jun 30, 2026",€20.00m
+PREMIER LEAGUE,Southampton FC,36,Nathan Ferguson,Centre-Back,"Oct 6, 2000 (21)",England,"1,84 m",right,"Jul 27, 2020",West Bromwich Albion,"Jun 30, 2023",€4.00m
+PREMIER LEAGUE,Southampton FC,5,James Tomkins,Centre-Back,"Mar 29, 1989 (32)",England,"1,92 m",right,"Jul 5, 2016",West Ham United,"Jun 30, 2022",€2.50m
+PREMIER LEAGUE,Southampton FC,33,Jaroslaw Jach,Centre-Back,"Feb 17, 1994 (27)",Poland,"1,92 m",left,"Jan 23, 2018",Zaglebie Lubin,"Jun 30, 2022",€650Th.
+PREMIER LEAGUE,Southampton FC,3,Tyrick Mitchell,Left-Back,"Sep 1, 1999 (22)",England,"1,75 m",left,"Jul 1, 2020",Crystal Palace U23,"Jun 30, 2025",€12.00m
+PREMIER LEAGUE,Southampton FC,17,Nathaniel Clyne,Right-Back,"Apr 5, 1991 (30)",England,"1,75 m",right,"Oct 14, 2020",Liverpool FC,"Jun 30, 2022",€3.00m
+PREMIER LEAGUE,Southampton FC,2,Joel Ward,Right-Back,"Oct 29, 1989 (32)",England,"1,86 m",right,"Jul 1, 2012",Portsmouth FC,"Jun 30, 2023",€2.50m
+PREMIER LEAGUE,Southampton FC,34,Martin Kelly,Right-Back,"Apr 27, 1990 (31)",England,"1,91 m",right,"Aug 14, 2014",Liverpool FC,"Jun 30, 2022",€1.50m
+PREMIER LEAGUE,Southampton FC,4,Luka Milivojevic,Defensive Midfield,"Apr 7, 1991 (30)",Serbia,"1,86 m",right,"Jan 31, 2017",Olympiacos Piraeus,"Jun 30, 2023",€8.00m
+PREMIER LEAGUE,Southampton FC,44,Jairo Riedewald,Defensive Midfield,"Sep 9, 1996 (25)",Netherlands,"1,82 m",left,"Jul 24, 2017",Ajax Amsterdam,"Jun 30, 2024",€8.00m
+PREMIER LEAGUE,Southampton FC,8,Cheikhou Kouyaté,Defensive Midfield,"Dec 21, 1989 (31)",Senegal,"1,89 m",right,"Aug 2, 2018",West Ham United,"Jun 30, 2022",€6.00m
+PREMIER LEAGUE,Southampton FC,23,Conor Gallagher,Central Midfield,"Feb 6, 2000 (21)",England,"1,82 m",right,"Jul 30, 2021",Chelsea FC U23,"May 31, 2022",€15.00m
+PREMIER LEAGUE,Southampton FC,12,Will Hughes,Central Midfield,"Apr 17, 1995 (26)",England,"1,85 m",left,"Aug 28, 2021",Watford FC,"Jun 30, 2024",€7.00m
+PREMIER LEAGUE,Southampton FC,18,James McArthur,Central Midfield,"Oct 7, 1987 (34)",Scotland,"1,78 m",both,"Sep 1, 2014",Wigan Athletic,"Jun 30, 2022",€2.00m
+PREMIER LEAGUE,Southampton FC,15,Jeffrey Schlupp,Left Midfield,"Dec 23, 1992 (28)",Ghana,"1,78 m",left,"Jan 13, 2017",Leicester City,"Jun 30, 2022",€9.00m
+PREMIER LEAGUE,Southampton FC,10,Eberechi Eze,Attacking Midfield,"Jun 29, 1998 (23)",England,"1,73 m",right,"Aug 28, 2020",Queens Park Rangers,"Jun 30, 2025",€20.00m
+PREMIER LEAGUE,Southampton FC,7,Michael Olise,Attacking Midfield,"Dec 12, 2001 (20)",France,"1,84 m",left,"Jul 8, 2021",Reading FC,"Jun 30, 2026",€15.00m
+PREMIER LEAGUE,Southampton FC,11,Wilfried Zaha,Left Winger,"Nov 10, 1992 (29)",Cote d'Ivoire,"1,80 m",right,"Feb 2, 2015",Manchester United,"Jun 30, 2023",€45.00m
+PREMIER LEAGUE,Southampton FC,22,Odsonne Edouard,Centre-Forward,"Jan 16, 1998 (23)",France,"1,87 m",right,"Aug 31, 2021",Celtic FC,"Jun 30, 2025",€17.00m
+PREMIER LEAGUE,Southampton FC,20,Christian Benteke,Centre-Forward,"Dec 3, 1990 (31)",Belgium,"1,90 m",right,"Aug 20, 2016",Liverpool FC,"Jun 30, 2023",€9.00m
+PREMIER LEAGUE,Southampton FC,9,Jordan Ayew,Centre-Forward,"Sep 11, 1991 (30)",Ghana,"1,82 m",right,"Jul 25, 2019",Swansea City,"Jun 30, 2022",€8.00m
+PREMIER LEAGUE,Southampton FC,14,Jean-Philippe Mateta,Centre-Forward,"Jun 28, 1997 (24)",France,"1,92 m",right,"Jan 21, 2021",1.FSV Mainz 05,"Jun 30, 2022",€8.00m
+PREMIER LEAGUE,Crystal Palace,1,Jack Butland,Goalkeeper,"Mar 10, 1993 (28)",England,"1,96 m",right,"Oct 16, 2020",Stoke City,"Jun 30, 2023",€2.00m
+PREMIER LEAGUE,Crystal Palace,13,Vicente Guaita,Goalkeeper,"Jan 10, 1987 (34)",Spain,"1,90 m",right,"Jul 1, 2018",Getafe CF,"Jun 30, 2023",€2.00m
+PREMIER LEAGUE,Crystal Palace,19,Remi Matthews,Goalkeeper,"Feb 10, 1994 (27)",England,"1,92 m",right,"Jul 12, 2021",Sunderland AFC,"Jun 30, 2023",€300Th.
+PREMIER LEAGUE,Crystal Palace,16,Joachim Andersen,Centre-Back,"May 31, 1996 (25)",Denmark,"1,92 m",right,"Jul 28, 2021",Olympique Lyon,"Jun 30, 2026",€22.00m
+PREMIER LEAGUE,Crystal Palace,6,Marc Guehi,Centre-Back,"Jul 13, 2000 (21)",England,"1,82 m",right,"Jul 18, 2021",Chelsea FC U23,"Jun 30, 2026",€20.00m
+PREMIER LEAGUE,Crystal Palace,36,Nathan Ferguson,Centre-Back,"Oct 6, 2000 (21)",England,"1,84 m",right,"Jul 27, 2020",West Bromwich Albion,"Jun 30, 2023",€4.00m
+PREMIER LEAGUE,Crystal Palace,5,James Tomkins,Centre-Back,"Mar 29, 1989 (32)",England,"1,92 m",right,"Jul 5, 2016",West Ham United,"Jun 30, 2022",€2.50m
+PREMIER LEAGUE,Crystal Palace,33,Jaroslaw Jach,Centre-Back,"Feb 17, 1994 (27)",Poland,"1,92 m",left,"Jan 23, 2018",Zaglebie Lubin,"Jun 30, 2022",€650Th.
+PREMIER LEAGUE,Crystal Palace,3,Tyrick Mitchell,Left-Back,"Sep 1, 1999 (22)",England,"1,75 m",left,"Jul 1, 2020",Crystal Palace U23,"Jun 30, 2025",€12.00m
+PREMIER LEAGUE,Crystal Palace,17,Nathaniel Clyne,Right-Back,"Apr 5, 1991 (30)",England,"1,75 m",right,"Oct 14, 2020",Liverpool FC,"Jun 30, 2022",€3.00m
+PREMIER LEAGUE,Crystal Palace,2,Joel Ward,Right-Back,"Oct 29, 1989 (32)",England,"1,86 m",right,"Jul 1, 2012",Portsmouth FC,"Jun 30, 2023",€2.50m
+PREMIER LEAGUE,Crystal Palace,34,Martin Kelly,Right-Back,"Apr 27, 1990 (31)",England,"1,91 m",right,"Aug 14, 2014",Liverpool FC,"Jun 30, 2022",€1.50m
+PREMIER LEAGUE,Crystal Palace,4,Luka Milivojevic,Defensive Midfield,"Apr 7, 1991 (30)",Serbia,"1,86 m",right,"Jan 31, 2017",Olympiacos Piraeus,"Jun 30, 2023",€8.00m
+PREMIER LEAGUE,Crystal Palace,44,Jairo Riedewald,Defensive Midfield,"Sep 9, 1996 (25)",Netherlands,"1,82 m",left,"Jul 24, 2017",Ajax Amsterdam,"Jun 30, 2024",€8.00m
+PREMIER LEAGUE,Crystal Palace,8,Cheikhou Kouyaté,Defensive Midfield,"Dec 21, 1989 (31)",Senegal,"1,89 m",right,"Aug 2, 2018",West Ham United,"Jun 30, 2022",€6.00m
+PREMIER LEAGUE,Crystal Palace,23,Conor Gallagher,Central Midfield,"Feb 6, 2000 (21)",England,"1,82 m",right,"Jul 30, 2021",Chelsea FC U23,"May 31, 2022",€15.00m
+PREMIER LEAGUE,Crystal Palace,12,Will Hughes,Central Midfield,"Apr 17, 1995 (26)",England,"1,85 m",left,"Aug 28, 2021",Watford FC,"Jun 30, 2024",€7.00m
+PREMIER LEAGUE,Crystal Palace,18,James McArthur,Central Midfield,"Oct 7, 1987 (34)",Scotland,"1,78 m",both,"Sep 1, 2014",Wigan Athletic,"Jun 30, 2022",€2.00m
+PREMIER LEAGUE,Crystal Palace,15,Jeffrey Schlupp,Left Midfield,"Dec 23, 1992 (28)",Ghana,"1,78 m",left,"Jan 13, 2017",Leicester City,"Jun 30, 2022",€9.00m
+PREMIER LEAGUE,Crystal Palace,10,Eberechi Eze,Attacking Midfield,"Jun 29, 1998 (23)",England,"1,73 m",right,"Aug 28, 2020",Queens Park Rangers,"Jun 30, 2025",€20.00m
+PREMIER LEAGUE,Crystal Palace,7,Michael Olise,Attacking Midfield,"Dec 12, 2001 (20)",France,"1,84 m",left,"Jul 8, 2021",Reading FC,"Jun 30, 2026",€15.00m
+PREMIER LEAGUE,Crystal Palace,11,Wilfried Zaha,Left Winger,"Nov 10, 1992 (29)",Cote d'Ivoire,"1,80 m",right,"Feb 2, 2015",Manchester United,"Jun 30, 2023",€45.00m
+PREMIER LEAGUE,Crystal Palace,22,Odsonne Edouard,Centre-Forward,"Jan 16, 1998 (23)",France,"1,87 m",right,"Aug 31, 2021",Celtic FC,"Jun 30, 2025",€17.00m
+PREMIER LEAGUE,Crystal Palace,20,Christian Benteke,Centre-Forward,"Dec 3, 1990 (31)",Belgium,"1,90 m",right,"Aug 20, 2016",Liverpool FC,"Jun 30, 2023",€9.00m
+PREMIER LEAGUE,Crystal Palace,9,Jordan Ayew,Centre-Forward,"Sep 11, 1991 (30)",Ghana,"1,82 m",right,"Jul 25, 2019",Swansea City,"Jun 30, 2022",€8.00m
+PREMIER LEAGUE,Crystal Palace,14,Jean-Philippe Mateta,Centre-Forward,"Jun 28, 1997 (24)",France,"1,92 m",right,"Jan 21, 2021",1.FSV Mainz 05,"Jun 30, 2022",€8.00m
+PREMIER LEAGUE,Newcastle United,27,Freddie Woodman,Goalkeeper,"Mar 4, 1997 (24)",England,"1,88 m",right,"Jul 1, 2014",Newcastle United U18,"Jun 30, 2023",€10.00m
+PREMIER LEAGUE,Newcastle United,1,Martin Dubravka,Goalkeeper,"Jan 15, 1989 (32)",Slovakia,"1,91 m",right,"Jul 1, 2018",AC Sparta Prague,"Jun 30, 2025",€5.00m
+PREMIER LEAGUE,Newcastle United,26,Karl Darlow,Goalkeeper,"Oct 8, 1990 (31)",England,"1,90 m",right,"Aug 9, 2014",Nottingham Forest,"Jun 30, 2025",€3.00m
+PREMIER LEAGUE,Newcastle United,29,Mark Gillespie,Goalkeeper,"Mar 27, 1992 (29)",England,"1,91 m",right,"Jul 3, 2020",Motherwell FC,"Jun 30, 2023",€400Th.
+PREMIER LEAGUE,Newcastle United,6,Jamaal Lascelles,Centre-Back,"Nov 11, 1993 (28)",England,"1,88 m",right,"Aug 9, 2014",Nottingham Forest,"Jun 30, 2024",€13.00m
+PREMIER LEAGUE,Newcastle United,5,Fabian Schär,Centre-Back,"Dec 20, 1991 (29)",Switzerland,"1,86 m",right,"Jul 26, 2018",Deportivo de La Coruña,"Jun 30, 2022",€9.00m
+PREMIER LEAGUE,Newcastle United,2,Ciaran Clark,Centre-Back,"Sep 26, 1989 (32)",Ireland,"1,88 m",left,"Aug 3, 2016",Aston Villa,"Jun 30, 2023",€3.00m
+PREMIER LEAGUE,Newcastle United,18,Federico Fernández,Centre-Back,"Feb 21, 1989 (32)",Argentina,"1,90 m",right,"Aug 9, 2018",Swansea City,"Jun 30, 2023",€3.00m
+PREMIER LEAGUE,Newcastle United,12,Jamal Lewis,Left-Back,"Jan 25, 1998 (23)",Northern Ireland,"1,78 m",left,"Sep 8, 2020",Norwich City,"Jun 30, 2025",€12.00m
+PREMIER LEAGUE,Newcastle United,3,Paul Dummett,Left-Back,"Sep 26, 1991 (30)",Wales,"1,83 m",left,"Jul 1, 2012",Newcastle United U21,"Jun 30, 2022",€3.00m
+PREMIER LEAGUE,Newcastle United,11,Matt Ritchie,Left-Back,"Sep 10, 1989 (32)",Scotland,"1,73 m",left,"Jul 1, 2016",AFC Bournemouth,"Jun 30, 2023",€3.00m
+PREMIER LEAGUE,Newcastle United,17,Emil Krafth,Right-Back,"Aug 2, 1994 (27)",Sweden,"1,84 m",right,"Aug 8, 2019",Amiens SC,"Jun 30, 2023",€3.50m
+PREMIER LEAGUE,Newcastle United,19,Javier Manquillo,Right-Back,"May 5, 1994 (27)",Spain,"1,78 m",right,"Jul 21, 2017",Atlético de Madrid,"Jun 30, 2024",€3.00m
+PREMIER LEAGUE,Newcastle United,14,Isaac Hayden,Defensive Midfield,"Mar 22, 1995 (26)",England,"1,87 m",right,"Jul 11, 2016",Arsenal FC U23,"Jun 30, 2026",€10.00m
+PREMIER LEAGUE,Newcastle United,28,Joe Willock,Central Midfield,"Aug 20, 1999 (22)",England,"1,86 m",right,"Aug 13, 2021",Arsenal FC,"Jun 30, 2027",€22.00m
+PREMIER LEAGUE,Newcastle United,36,Sean Longstaff,Central Midfield,"Oct 30, 1997 (24)",England,"1,81 m",right,"Jan 1, 2019",Newcastle United U23,"Jun 30, 2022",€15.00m
+PREMIER LEAGUE,Newcastle United,8,Jonjo Shelvey,Central Midfield,"Feb 27, 1992 (29)",England,"1,84 m",right,"Jan 12, 2016",Swansea City,"Jun 30, 2023",€13.00m
+PREMIER LEAGUE,Newcastle United,16,Jeff Hendrick,Central Midfield,"Jan 31, 1992 (29)",Ireland,"1,85 m",right,"Aug 24, 2020",Burnley FC,"Jun 30, 2024",€9.00m
+PREMIER LEAGUE,Newcastle United,24,Miguel Almirón,Attacking Midfield,"Feb 10, 1994 (27)",Paraguay,"1,74 m",left,"Jan 31, 2019",Atlanta United FC,"Jun 30, 2024",€17.50m
+PREMIER LEAGUE,Newcastle United,10,Allan Saint-Maximin,Left Winger,"Mar 12, 1997 (24)",France,"1,73 m",right,"Aug 2, 2019",OGC Nice,"Jun 30, 2026",€30.00m
+PREMIER LEAGUE,Newcastle United,21,Ryan Fraser,Left Winger,"Feb 24, 1994 (27)",Scotland,"1,63 m",right,"Sep 7, 2020",AFC Bournemouth,"Jun 30, 2025",€10.00m
+PREMIER LEAGUE,Newcastle United,23,Jacob Murphy,Right Winger,"Feb 24, 1995 (26)",England,"1,73 m",right,"Jul 19, 2017",Norwich City,"Jun 30, 2027",€5.00m
+PREMIER LEAGUE,Newcastle United,9,Callum Wilson,Centre-Forward,"Feb 27, 1992 (29)",England,"1,80 m",right,"Sep 7, 2020",AFC Bournemouth,"Jun 30, 2024",€22.00m
+PREMIER LEAGUE,Newcastle United,7,Joelinton,Centre-Forward,"Aug 14, 1996 (25)",Brazil,"1,86 m",right,"Jul 23, 2019",TSG 1899 Hoffenheim,"Jun 30, 2025",€17.00m
+PREMIER LEAGUE,Newcastle United,34,Dwight Gayle,Centre-Forward,"Oct 17, 1989 (32)",England,"1,74 m",right,"Jul 1, 2016",Crystal Palace,"Jun 30, 2024",€4.00m
+PREMIER LEAGUE,Brentford FC,1,David Raya,Goalkeeper,"Sep 15, 1995 (26)",Spain,"1,83 m",right,"Jul 6, 2019",Blackburn Rovers,"Jun 30, 2024",€18.00m
+PREMIER LEAGUE,Brentford FC,40,Álvaro Fernández,Goalkeeper,"Apr 13, 1998 (23)",Spain,"1,86 m",left,"Aug 17, 2021",SD Huesca,"Jun 30, 2022",€4.00m
+PREMIER LEAGUE,Brentford FC,20,Kristoffer Ajer,Centre-Back,"Apr 17, 1998 (23)",Norway,"1,98 m",right,"Jul 21, 2021",Celtic FC,"Jun 30, 2026",€17.00m
+PREMIER LEAGUE,Brentford FC,5,Ethan Pinnock,Centre-Back,"May 29, 1993 (28)",Jamaica,"1,94 m",left,"Jul 2, 2019",Barnsley FC,"Jun 30, 2025",€7.00m
+PREMIER LEAGUE,Brentford FC,18,Pontus Jansson,Centre-Back,"Feb 13, 1991 (30)",Sweden,"1,96 m",right,"Jul 8, 2019",Leeds United,"Jun 30, 2022",€5.00m
+PREMIER LEAGUE,Brentford FC,29,Mads Bech Sörensen,Centre-Back,"Jan 7, 1999 (22)",Denmark,"1,93 m",left,"Jul 1, 2018",Brentford FC B,"Jun 30, 2023",€4.00m
+PREMIER LEAGUE,Brentford FC,22,Zanka,Centre-Back,"Apr 23, 1990 (31)",Denmark,"1,89 m",right,"Sep 9, 2021",Without Club,"Jun 30, 2022",€1.50m
+PREMIER LEAGUE,Brentford FC,23,Julian Jeanvier,Centre-Back,"Mar 31, 1992 (29)",Guinea,"1,83 m",right,"Jul 30, 2018",Stade Reims,"Jun 30, 2022",€1.00m
+PREMIER LEAGUE,Brentford FC,4,Charlie Goode,Centre-Back,"Aug 3, 1995 (26)",England,"1,96 m",right,"Aug 19, 2020",Northampton Town,"Jun 30, 2024",€600Th.
+PREMIER LEAGUE,Brentford FC,32,Luka Racic,Centre-Back,"May 8, 1999 (22)",Denmark,"1,87 m",right,"Jul 1, 2019",Brentford FC B,"Jun 30, 2023",€250Th.
+PREMIER LEAGUE,Brentford FC,3,Rico Henry,Left-Back,"Jul 8, 1997 (24)",England,"1,70 m",left,"Aug 31, 2016",Walsall FC,"Jun 30, 2023",€10.00m
+PREMIER LEAGUE,Brentford FC,2,Dominic Thompson,Left-Back,"Jul 26, 2000 (21)",England,"1,83 m",left,"Aug 8, 2019",Arsenal FC U23,"Jun 30, 2022",€800Th.
+PREMIER LEAGUE,Brentford FC,30,Mads Roerslev Rasmussen,Right-Back,"Jun 24, 1999 (22)",Denmark,"1,84 m",right,"Aug 7, 2019",FC Copenhagen,"Jun 30, 2024",€1.50m
+PREMIER LEAGUE,Brentford FC,36,Fin Stevens,Right-Back,"Apr 10, 2003 (18)",Wales,"1,77 m",right,"Jul 28, 2020",Worthing FC,"Jun 30, 2024",€400Th.
+PREMIER LEAGUE,Brentford FC,10,Josh Dasilva,Defensive Midfield,"Oct 23, 1998 (23)",England,"1,84 m",left,"Aug 21, 2018",Arsenal FC U23,"Jun 30, 2024",€10.00m
+PREMIER LEAGUE,Brentford FC,27,Vitaly Janelt,Defensive Midfield,"May 10, 1998 (23)",Germany,"1,84 m",left,"Oct 3, 2020",VfL Bochum,"Jun 30, 2024",€10.00m
+PREMIER LEAGUE,Brentford FC,15,Frank Onyeka,Central Midfield,"Jan 1, 1998 (23)",Nigeria,"1,83 m",right,"Jul 20, 2021",FC Midtjylland,"Jun 30, 2026",€9.00m
+PREMIER LEAGUE,Brentford FC,8,Mathias Jensen,Central Midfield,"Jan 1, 1996 (25)",Denmark,"1,80 m",right,"Jul 10, 2019",Celta de Vigo,"Jun 30, 2023",€8.00m
+PREMIER LEAGUE,Brentford FC,6,Christian Nörgaard,Central Midfield,"Mar 10, 1994 (27)",Denmark,"1,87 m",right,"Jul 1, 2019",ACF Fiorentina,"Jun 30, 2024",€6.00m
+PREMIER LEAGUE,Brentford FC,28,Mads Bidstrup,Central Midfield,"Feb 25, 2001 (20)",Denmark,"1,75 m",right,"Jul 1, 2021",Brentford FC B,"Jun 30, 2023",€900Th.
+PREMIER LEAGUE,Brentford FC,26,Shandon Baptiste,Central Midfield,"Apr 8, 1998 (23)",Grenada,"1,80 m",right,"Jan 31, 2020",Oxford United,"Jun 30, 2024",€800Th.
+PREMIER LEAGUE,Brentford FC,31,Jan Zamburek,Central Midfield,"Feb 13, 2001 (20)",Czech Republic,"1,82 m",right,"Aug 30, 2019",Brentford FC B,"Jun 30, 2023",€800Th.
+PREMIER LEAGUE,Brentford FC,14,Saman Ghoddos,Attacking Midfield,"Sep 6, 1993 (28)",Iran,"1,77 m",right,"Jan 14, 2021",Amiens SC,"Jun 30, 2023",€3.00m
+PREMIER LEAGUE,Brentford FC,11,Yoane Wissa,Left Winger,"Sep 3, 1996 (25)",DR Congo,"1,80 m",right,"Aug 10, 2021",FC Lorient,"Jun 30, 2025",€10.00m
+PREMIER LEAGUE,Brentford FC,24,Tariqe Fosu,Left Winger,"Nov 5, 1995 (26)",Ghana,"1,80 m",right,"Jan 31, 2020",Oxford United,"Jun 30, 2023",€2.50m
+PREMIER LEAGUE,Brentford FC,16,Joel Valencia,Left Winger,"Nov 16, 1994 (27)",Ecuador,"1,64 m",right,"Jul 31, 2019",Piast Gliwice,"Jun 30, 2023",€400Th.
+PREMIER LEAGUE,Brentford FC,19,Bryan Mbeumo,Right Winger,"Aug 7, 1999 (22)",France,"1,71 m",left,"Aug 5, 2019",ESTAC Troyes,"Jun 30, 2024",€16.00m
+PREMIER LEAGUE,Brentford FC,7,Sergi Canós,Right Winger,"Feb 2, 1997 (24)",Spain,"1,77 m",right,"Jan 31, 2017",Norwich City,"Jun 30, 2023",€14.00m
+PREMIER LEAGUE,Brentford FC,17,Ivan Toney,Centre-Forward,"Mar 16, 1996 (25)",England,"1,85 m",right,"Sep 1, 2020",Peterborough United,"Jun 30, 2025",€32.00m
+PREMIER LEAGUE,Brentford FC,9,Marcus Forss,Centre-Forward,"Jun 18, 1999 (22)",Finland,"1,82 m",right,"Jul 1, 2018",Brentford FC B,"Jun 30, 2026",€4.50m
+PREMIER LEAGUE,Norwich City,28,Angus Gunn,Goalkeeper,"Jan 22, 1996 (25)",England,"1,96 m",right,"Jul 1, 2021",Southampton FC,"Jun 30, 2025",€3.00m
+PREMIER LEAGUE,Norwich City,1,Tim Krul,Goalkeeper,"Apr 3, 1988 (33)",Netherlands,"1,93 m",left,"Jul 24, 2018",Brighton & Hove Albion,"Jun 30, 2024",€2.50m
+PREMIER LEAGUE,Norwich City,33,Michael McGovern,Goalkeeper,"Jul 12, 1984 (37)",Northern Ireland,"1,90 m",right,"Jul 19, 2016",Hamilton Academical FC,"Jun 30, 2023",€250Th.
+PREMIER LEAGUE,Norwich City,15,Ozan Kabak,Centre-Back,"Mar 25, 2000 (21)",Turkey,"1,86 m",right,"Aug 30, 2021",FC Schalke 04,"Jun 30, 2022",€17.00m
+PREMIER LEAGUE,Norwich City,4,Ben Gibson,Centre-Back,"Jan 15, 1993 (28)",England,"1,85 m",left,"Jul 1, 2021",Burnley FC,"Jun 30, 2024",€7.00m
+PREMIER LEAGUE,Norwich City,5,Grant Hanley,Centre-Back,"Nov 20, 1991 (30)",Scotland,"1,88 m",right,"Aug 30, 2017",Newcastle United,"Jun 30, 2025",€4.00m
+PREMIER LEAGUE,Norwich City,6,Christoph Zimmermann,Centre-Back,"Jan 12, 1993 (28)",Germany,"1,94 m",right,"Jul 1, 2017",Borussia Dortmund II,"Jun 30, 2023",€1.80m
+PREMIER LEAGUE,Norwich City,44,Andrew Omobamidele,Centre-Back,"Jun 23, 2002 (19)",Ireland,"1,88 m",right,"Jan 1, 2021",Norwich City U23,"Jun 30, 2024",€1.20m
+PREMIER LEAGUE,Norwich City,-,Rocky Bushiri,Centre-Back,"Nov 30, 1999 (22)",Belgium,"1,87 m",right,"Jul 8, 2019",KV Oostende,"Jun 30, 2023",€600Th.
+PREMIER LEAGUE,Norwich City,21,Brandon Williams,Left-Back,"Sep 3, 2000 (21)",England,"1,80 m",right,"Aug 23, 2021",Manchester United,"May 31, 2022",€10.00m
+PREMIER LEAGUE,Norwich City,30,Dimitrios Giannoulis,Left-Back,"Oct 17, 1995 (26)",Greece,"1,78 m",left,"Jul 1, 2021",PAOK Thessaloniki,"Jun 30, 2024",€7.00m
+PREMIER LEAGUE,Norwich City,2,Max Aarons,Right-Back,"Jan 4, 2000 (21)",England,"1,71 m",right,"Jul 1, 2018",Norwich City U23,"Jun 30, 2024",€22.00m
+PREMIER LEAGUE,Norwich City,3,Sam Byram,Right-Back,"Sep 16, 1993 (28)",England,"1,83 m",right,"Jul 16, 2019",West Ham United,"Jun 30, 2023",€2.00m
+PREMIER LEAGUE,Norwich City,26,Bali Mumba,Right-Back,"Oct 8, 2001 (20)",England,"1,68 m",right,"Jul 27, 2020",Sunderland AFC U23,"Jun 30, 2025",€500Th.
+PREMIER LEAGUE,Norwich City,16,Mathias Normann,Defensive Midfield,"May 28, 1996 (25)",Norway,"1,79 m",right,"Aug 29, 2021",FK Rostov,"Jun 30, 2022",€13.00m
+PREMIER LEAGUE,Norwich City,19,Jacob Lungi Sörensen,Defensive Midfield,"Mar 3, 1998 (23)",Denmark,"1,84 m",right,"Jul 27, 2020",Esbjerg fB,"Jun 30, 2024",€1.80m
+PREMIER LEAGUE,Norwich City,8,Billy Gilmour,Central Midfield,"Jun 11, 2001 (20)",Scotland,"1,70 m",right,"Jul 2, 2021",Chelsea FC,"May 31, 2022",€15.00m
+PREMIER LEAGUE,Norwich City,20,Pierre Lees-Melou,Central Midfield,"May 25, 1993 (28)",France,"1,85 m",right,"Jul 13, 2021",OGC Nice,"Jun 30, 2024",€7.00m
+PREMIER LEAGUE,Norwich City,23,Kenny McLean,Central Midfield,"Jan 8, 1992 (29)",Scotland,"1,80 m",left,"Jan 22, 2018",Aberdeen FC,"Jun 30, 2023",€3.00m
+PREMIER LEAGUE,Norwich City,7,Lukas Rupp,Central Midfield,"Jan 8, 1991 (30)",Germany,"1,78 m",right,"Jan 13, 2020",TSG 1899 Hoffenheim,"Jun 30, 2022",€1.80m
+PREMIER LEAGUE,Norwich City,14,Todd Cantwell,Left Midfield,"Feb 27, 1998 (23)",England,"1,80 m",right,"Jul 1, 2018",Norwich City U23,"Jun 30, 2022",€22.00m
+PREMIER LEAGUE,Norwich City,10,Kieran Dowell,Attacking Midfield,"Oct 10, 1997 (24)",England,"1,83 m",left,"Jul 30, 2020",Everton FC,"Jun 30, 2023",€3.00m
+PREMIER LEAGUE,Norwich City,18,Christos Tzolis,Left Winger,"Jan 30, 2002 (19)",Greece,"1,79 m",right,"Aug 12, 2021",PAOK Thessaloniki,"Jun 30, 2026",€12.00m
+PREMIER LEAGUE,Norwich City,11,Przemyslaw Placheta,Left Winger,"Mar 23, 1998 (23)",Poland,"1,78 m",left,"Jul 27, 2020",Slask Wroclaw,"Jun 30, 2024",€2.00m
+PREMIER LEAGUE,Norwich City,17,Milot Rashica,Right Winger,"Jun 28, 1996 (25)",Kosovo,"1,77 m",right,"Jul 1, 2021",SV Werder Bremen,"Jun 30, 2025",€9.00m
+PREMIER LEAGUE,Norwich City,24,Josh Sargent,Centre-Forward,"Feb 20, 2000 (21)",United States,"1,85 m",right,"Aug 9, 2021",SV Werder Bremen,"Jun 30, 2025",€8.00m
+PREMIER LEAGUE,Norwich City,22,Teemu Pukki,Centre-Forward,"Mar 29, 1990 (31)",Finland,"1,80 m",right,"Jul 1, 2018",Bröndby IF,"Jun 30, 2022",€7.00m
+PREMIER LEAGUE,Norwich City,35,Adam Idah,Centre-Forward,"Feb 11, 2001 (20)",Ireland,"1,90 m",right,"Jul 1, 2019",Norwich City U23,"Jun 30, 2024",€3.00m
+PREMIER LEAGUE,Watford FC,26,Daniel Bachmann,Goalkeeper,"Jul 9, 1994 (27)",Austria,"1,91 m",right,"Jul 1, 2017",Stoke City,"Jun 30, 2024",€3.00m
+PREMIER LEAGUE,Watford FC,1,Ben Foster,Goalkeeper,"Apr 3, 1983 (38)",England,"1,93 m",left,"Jul 5, 2018",West Bromwich Albion,"Jun 30, 2022",€300Th.
+PREMIER LEAGUE,Watford FC,35,Rob Elliot,Goalkeeper,"Apr 30, 1986 (35)",Ireland,"1,90 m",left,"Jan 28, 2021",Without Club,"Jun 30, 2023",€200Th.
+PREMIER LEAGUE,Watford FC,13,Nicolas N'Koulou,Centre-Back,"Mar 27, 1990 (31)",Cameroon,"1,84 m",right,"Oct 7, 2021",Without Club,"Jun 30, 2022",€5.00m
+PREMIER LEAGUE,Watford FC,5,William Troost-Ekong,Centre-Back,"Sep 1, 1993 (28)",Nigeria,"1,91 m",right,"Sep 29, 2020",Udinese Calcio,"Jun 30, 2025",€4.00m
+PREMIER LEAGUE,Watford FC,27,Christian Kabasele,Centre-Back,"Feb 24, 1991 (30)",Belgium,"1,87 m",right,"Jul 1, 2016",KRC Genk,"Jun 30, 2024",€4.00m
+PREMIER LEAGUE,Watford FC,15,Craig Cathcart,Centre-Back,"Feb 6, 1989 (32)",Northern Ireland,"1,89 m",right,"Jul 1, 2014",Blackpool FC,"Jun 30, 2023",€1.50m
+PREMIER LEAGUE,Watford FC,31,Francisco Sierralta,Centre-Back,"May 6, 1997 (24)",Chile,"1,92 m",right,"Sep 9, 2020",Udinese Calcio,"Jun 30, 2022",€1.50m
+PREMIER LEAGUE,Watford FC,11,Adam Masina,Left-Back,"Jan 2, 1994 (27)",Morocco,"1,91 m",left,"Jul 2, 2018",Bologna FC 1909,"Jun 30, 2023",€4.50m
+PREMIER LEAGUE,Watford FC,3,Danny Rose,Left-Back,"Jul 2, 1990 (31)",England,"1,73 m",left,"Jul 1, 2021",Tottenham Hotspur,"Jun 30, 2023",€3.00m
+PREMIER LEAGUE,Watford FC,2,Jeremy Ngakia,Right-Back,"Sep 7, 2000 (21)",England,"1,84 m",right,"Aug 14, 2020",West Ham United U23,"Jun 30, 2024",€4.00m
+PREMIER LEAGUE,Watford FC,21,Kiko Femenía,Right-Back,"Feb 2, 1991 (30)",Spain,"1,71 m",right,"Jul 1, 2017",Deportivo Alavés,"Jun 30, 2024",€3.50m
+PREMIER LEAGUE,Watford FC,6,Imrân Louza,Central Midfield,"May 1, 1999 (22)",Morocco,"1,78 m",left,"Jul 1, 2021",FC Nantes,"Jun 30, 2026",€12.00m
+PREMIER LEAGUE,Watford FC,18,Ozan Tufan,Central Midfield,"Mar 23, 1995 (26)",Turkey,"1,82 m",right,"Aug 19, 2021",Fenerbahce SK,"Jun 30, 2022",€11.00m
+PREMIER LEAGUE,Watford FC,19,Moussa Sissoko,Central Midfield,"Aug 16, 1989 (32)",France,"1,87 m",right,"Aug 27, 2021",Tottenham Hotspur,"Jun 30, 2023",€10.00m
+PREMIER LEAGUE,Watford FC,4,Peter Etebo,Central Midfield,"Nov 9, 1995 (26)",Nigeria,"1,74 m",right,"Jul 9, 2021",Stoke City,"May 31, 2022",€3.20m
+PREMIER LEAGUE,Watford FC,8,Tom Cleverley,Central Midfield,"Aug 12, 1989 (32)",England,"1,75 m",right,"Jul 1, 2017",Everton FC,"Jun 30, 2022",€3.00m
+PREMIER LEAGUE,Watford FC,33,Juraj Kucka,Central Midfield,"Feb 26, 1987 (34)",Slovakia,"1,86 m",right,"Aug 6, 2021",Parma Calcio 1913,"Jun 30, 2022",€3.00m
+PREMIER LEAGUE,Watford FC,16,Dan Gosling,Central Midfield,"Feb 1, 1990 (31)",England,"1,80 m",right,"Jan 31, 2021",AFC Bournemouth,"Jun 30, 2023",€1.50m
+PREMIER LEAGUE,Watford FC,12,Ken Sema,Left Midfield,"Sep 30, 1993 (28)",Sweden,"1,80 m",left,"Jul 5, 2018",Östersunds FK,"Jun 30, 2023",€4.50m
+PREMIER LEAGUE,Watford FC,34,Kwadwo Baah,Left Winger,"Jan 27, 2003 (18)",Germany,"1,82 m",right,"Jul 1, 2021",Rochdale AFC,"Jun 30, 2026",€800Th.
+PREMIER LEAGUE,Watford FC,23,Ismaïla Sarr,Right Winger,"Feb 25, 1998 (23)",Senegal,"1,85 m",right,"Aug 8, 2019",Stade Rennais FC,"Jun 30, 2024",€27.00m
+PREMIER LEAGUE,Watford FC,7,Joshua King,Second Striker,"Jan 15, 1992 (29)",Norway,"1,87 m",right,"Jul 9, 2021",Everton FC,"Jun 30, 2023",€8.00m
+PREMIER LEAGUE,Watford FC,10,João Pedro,Centre-Forward,"Sep 26, 2001 (20)",Brazil,"1,82 m",right,"Jan 1, 2020",Fluminense Football Club,"Jun 30, 2025",€10.00m
+PREMIER LEAGUE,Watford FC,29,Cucho Hernández,Centre-Forward,"Apr 20, 1999 (22)",Colombia,"1,76 m",right,"Jan 1, 2017",Deportivo Pereira,-,€9.00m
+PREMIER LEAGUE,Watford FC,25,Emmanuel Dennis,Centre-Forward,"Nov 15, 1997 (24)",Nigeria,"1,75 m",right,"Jul 1, 2021",Club Brugge KV,"Jun 30, 2026",€5.00m
+PREMIER LEAGUE,Watford FC,17,Ashley Fletcher,Centre-Forward,"Oct 2, 1995 (26)",England,"1,85 m",right,"Jul 1, 2021",Middlesbrough FC,-,€3.00m
+PREMIER LEAGUE,Burnley FC,1,Nick Pope,Goalkeeper,"Apr 19, 1992 (29)",England,"1,98 m",right,"Jul 19, 2016",Charlton Athletic,"Jun 30, 2023",€15.00m
+PREMIER LEAGUE,Burnley FC,13,Wayne Hennessey,Goalkeeper,"Jan 24, 1987 (34)",Wales,"1,97 m",right,"Jul 20, 2021",Crystal Palace,"Jun 30, 2023",€1.00m
+PREMIER LEAGUE,Burnley FC,25,Will Norris,Goalkeeper,"Aug 12, 1993 (28)",England,"1,90 m",right,"Aug 14, 2020",Wolverhampton Wanderers,"Jun 30, 2023",€400Th.
+PREMIER LEAGUE,Burnley FC,5,James Tarkowski,Centre-Back,"Nov 19, 1992 (29)",England,"1,85 m",right,"Feb 1, 2016",Brentford FC,"Jun 30, 2022",€25.00m
+PREMIER LEAGUE,Burnley FC,22,Nathan Collins,Centre-Back,"Apr 30, 2001 (20)",Ireland,"1,93 m",right,"Jul 1, 2021",Stoke City,"Jun 30, 2025",€8.00m
+PREMIER LEAGUE,Burnley FC,6,Ben Mee,Centre-Back,"Sep 21, 1989 (32)",England,"1,80 m",left,"Jan 17, 2012",Manchester City,"Jun 30, 2022",€6.00m
+PREMIER LEAGUE,Burnley FC,28,Kevin Long,Centre-Back,"Aug 18, 1990 (31)",Ireland,"1,88 m",right,"Jan 1, 2010",Cork City FC (- 2009),"Jun 30, 2023",€1.00m
+PREMIER LEAGUE,Burnley FC,3,Charlie Taylor,Left-Back,"Sep 18, 1993 (28)",England,"1,76 m",left,"Jul 6, 2017",Leeds United,"Jun 30, 2024",€4.00m
+PREMIER LEAGUE,Burnley FC,23,Erik Pieters,Left-Back,"Aug 7, 1988 (33)",Netherlands,"1,83 m",left,"Jul 8, 2019",Stoke City,"Jun 30, 2022",€1.50m
+PREMIER LEAGUE,Burnley FC,14,Connor Roberts,Right-Back,"Sep 23, 1995 (26)",Wales,"1,75 m",right,"Aug 31, 2021",Swansea City,"Jun 30, 2025",€4.50m
+PREMIER LEAGUE,Burnley FC,2,Matthew Lowton,Right-Back,"Jun 9, 1989 (32)",England,"1,80 m",right,"Jul 1, 2015",Aston Villa,"Jun 30, 2023",€2.50m
+PREMIER LEAGUE,Burnley FC,26,Phil Bardsley,Right-Back,"Jun 28, 1985 (36)",Scotland,"1,80 m",right,"Jul 25, 2017",Stoke City,"Jun 30, 2022",€300Th.
+PREMIER LEAGUE,Burnley FC,4,Jack Cork,Defensive Midfield,"Jun 25, 1989 (32)",England,"1,85 m",right,"Jul 11, 2017",Swansea City,"Jul 1, 2022",€5.00m
+PREMIER LEAGUE,Burnley FC,18,Ashley Westwood,Defensive Midfield,"Apr 1, 1990 (31)",England,"1,74 m",right,"Jan 31, 2017",Aston Villa,"Jun 30, 2023",€5.00m
+PREMIER LEAGUE,Burnley FC,8,Josh Brownhill,Central Midfield,"Dec 19, 1995 (25)",England,"1,79 m",right,"Jan 30, 2020",Bristol City,"Jun 30, 2024",€7.00m
+PREMIER LEAGUE,Burnley FC,16,Dale Stephens,Central Midfield,"Jun 12, 1989 (32)",England,"1,85 m",right,"Sep 24, 2020",Brighton & Hove Albion,"Jun 30, 2022",€2.50m
+PREMIER LEAGUE,Burnley FC,11,Dwight McNeil,Left Winger,"Nov 22, 1999 (22)",England,"1,83 m",left,"Jul 1, 2018",Burnley FC U23,"Jun 30, 2024",€22.00m
+PREMIER LEAGUE,Burnley FC,20,Maxwel Cornet,Left Winger,"Sep 27, 1996 (25)",Cote d'Ivoire,"1,79 m",left,"Aug 29, 2021",Olympique Lyon,"Jun 30, 2026",€12.00m
+PREMIER LEAGUE,Burnley FC,7,Jóhann Berg Gudmundsson,Right Winger,"Oct 27, 1990 (31)",Iceland,"1,86 m",left,"Jul 19, 2016",Charlton Athletic,"Jun 30, 2023",€3.00m
+PREMIER LEAGUE,Burnley FC,17,Aaron Lennon,Right Winger,"Apr 16, 1987 (34)",England,"1,65 m",right,"Aug 25, 2021",Kayserispor,"Jun 30, 2022",€1.10m
+PREMIER LEAGUE,Burnley FC,9,Chris Wood,Centre-Forward,"Dec 7, 1991 (30)",New Zealand,"1,91 m",right,"Aug 21, 2017",Leeds United,"Jun 30, 2023",€8.00m
+PREMIER LEAGUE,Burnley FC,19,Jay Rodríguez,Centre-Forward,"Jul 29, 1989 (32)",England,"1,85 m",right,"Jul 9, 2019",West Bromwich Albion,"Jun 30, 2022",€4.00m
+PREMIER LEAGUE,Burnley FC,10,Ashley Barnes,Centre-Forward,"Oct 30, 1989 (32)",England,"1,86 m",right,"Jan 10, 2014",Brighton & Hove Albion,"Jun 30, 2022",€3.50m
+PREMIER LEAGUE,Burnley FC,27,Matej Vydra,Centre-Forward,"May 1, 1992 (29)",Czech Republic,"1,80 m",right,"Aug 7, 2018",Derby County,"Jun 30, 2022",€3.00m
